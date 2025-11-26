@@ -8,7 +8,7 @@
       "teamName": "LOUD",
       "map": "Split",
       "startingSide": "Attack",
-      "attackOwn": 2,
+      "attackOwn": 3,
       "defenseOwn": 0,
       "pistolAttackWon": false,
       "pistolDefenseWon": false,
@@ -55,7 +55,7 @@
         {
           "id": 4,
           "iglCall": "DEFAULT MID",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": true
         },
