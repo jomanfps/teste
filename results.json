@@ -96,14 +96,14 @@
         },
         {
           "id": 10,
-          "iglCall": "ECO",
+          "iglCall": "DEFAULT MID",
           "isWin": false,
           "fk": false,
           "fd": true
         },
         {
           "id": 11,
-          "iglCall": "",
+          "iglCall": "ECO",
           "isWin": false,
           "fk": false,
           "fd": true
