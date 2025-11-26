@@ -8,7 +8,7 @@
       "teamName": "2GAME",
       "map": "Bind",
       "startingSide": "Attack",
-      "attackOwn": 5,
+      "attackOwn": 6,
       "defenseOwn": 0,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
@@ -90,7 +90,7 @@
         {
           "id": 9,
           "iglCall": "EXPLO CORTA",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": true
         },
