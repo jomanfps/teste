@@ -223,11 +223,11 @@
           "fk": 0
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": 150,
+          "kills": 13,
+          "deaths": 18,
+          "assists": 3,
+          "fk": 1
         },
         {
           "acs": 0,
