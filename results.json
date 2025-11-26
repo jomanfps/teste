@@ -9,7 +9,7 @@
       "map": "Haven",
       "startingSide": "Attack",
       "attackOwn": 5,
-      "defenseOwn": 4,
+      "defenseOwn": 5,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
       "antiEcoAttackWon": true,
@@ -173,8 +173,8 @@
         },
         {
           "id": 21,
-          "iglCall": "",
-          "isWin": false,
+          "iglCall": "DEFAULT",
+          "isWin": true,
           "fk": true,
           "fd": false
         },
