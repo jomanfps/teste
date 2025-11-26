@@ -89,9 +89,9 @@
         },
         {
           "id": 9,
-          "iglCall": "",
+          "iglCall": "DEFAULT A",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
