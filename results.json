@@ -6,7 +6,7 @@
       "region": "NA",
       "tier": "Tier 2",
       "teamName": "",
-      "map": "Ascent",
+      "map": "Haven",
       "startingSide": "Attack",
       "attackOwn": 0,
       "defenseOwn": 0,
@@ -15,18 +15,18 @@
       "antiEcoAttackWon": false,
       "antiEcoDefenseWon": false,
       "ourComp": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Raze",
+        "Kayo",
+        "Sage",
+        "Viper",
+        "Cypher"
       ],
       "enemyComp": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Reyna",
+        "Phoenix",
+        "Omen",
+        "Breach",
+        "Killjoy"
       ],
       "vodLink": "",
       "reviewLink": "",
@@ -202,32 +202,32 @@
       ],
       "playerStats": [
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": 165,
+          "kills": 14,
+          "deaths": 18,
+          "assists": 8,
+          "fk": 6
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": 185,
+          "kills": 16,
+          "deaths": 19,
+          "assists": 5,
+          "fk": 4
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": 195,
+          "kills": 16,
+          "deaths": 19,
+          "assists": 5,
+          "fk": 2
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": 150,
+          "kills": 13,
+          "deaths": 18,
+          "assists": 3,
+          "fk": 1
         },
         {
           "acs": 0,
