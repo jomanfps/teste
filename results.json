@@ -70,7 +70,7 @@
           "id": 6,
           "iglCall": "",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
