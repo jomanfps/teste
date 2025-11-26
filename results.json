@@ -56,7 +56,7 @@
           "id": 4,
           "iglCall": "",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
