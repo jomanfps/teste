@@ -9,7 +9,7 @@
       "map": "Split",
       "startingSide": "Attack",
       "attackOwn": 3,
-      "defenseOwn": 7,
+      "defenseOwn": 8,
       "pistolAttackWon": false,
       "pistolDefenseWon": true,
       "antiEcoAttackWon": false,
@@ -167,7 +167,7 @@
         {
           "id": 20,
           "iglCall": "TIRO B",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": true
         },
