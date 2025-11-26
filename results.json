@@ -9,11 +9,11 @@
       "map": "Split",
       "startingSide": "Attack",
       "attackOwn": 3,
-      "defenseOwn": 1,
+      "defenseOwn": 2,
       "pistolAttackWon": false,
       "pistolDefenseWon": true,
       "antiEcoAttackWon": false,
-      "antiEcoDefenseWon": false,
+      "antiEcoDefenseWon": true,
       "ourComp": [
         "Yoru",
         "Raze",
@@ -124,9 +124,9 @@
         },
         {
           "id": 14,
-          "iglCall": "",
-          "isWin": false,
-          "fk": false,
+          "iglCall": "ANTIECO",
+          "isWin": true,
+          "fk": true,
           "fd": false
         },
         {
