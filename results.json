@@ -159,14 +159,14 @@
         },
         {
           "id": 19,
-          "iglCall": "",
+          "iglCall": "2-3",
           "isWin": true,
           "fk": true,
           "fd": false
         },
         {
           "id": 20,
-          "iglCall": "",
+          "iglCall": "2-3",
           "isWin": false,
           "fk": false,
           "fd": true
