@@ -82,17 +82,17 @@
         },
         {
           "id": 8,
-          "iglCall": "",
+          "iglCall": "DEFAULT BAÑOS",
           "isWin": false,
           "fk": false,
           "fd": true
         },
         {
           "id": 9,
-          "iglCall": "",
+          "iglCall": "EXPLO CORTA",
           "isWin": false,
           "fk": false,
-          "fd": false
+          "fd": true
         },
         {
           "id": 10,
