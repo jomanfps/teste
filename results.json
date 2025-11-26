@@ -8,9 +8,9 @@
       "teamName": "2GAME",
       "map": "Haven",
       "startingSide": "Attack",
-      "attackOwn": 0,
+      "attackOwn": 1,
       "defenseOwn": 0,
-      "pistolAttackWon": false,
+      "pistolAttackWon": true,
       "pistolDefenseWon": false,
       "antiEcoAttackWon": false,
       "antiEcoDefenseWon": false,
@@ -34,7 +34,7 @@
         {
           "id": 1,
           "iglCall": "PISTOL",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": true
         },
