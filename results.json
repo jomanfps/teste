@@ -234,7 +234,9 @@
           "fk": 2
         }
       ],
-      "id": "f86401f6-bcd3-4bf1-894f-45d8f96c241e"
+      "id": "f86401f6-bcd3-4bf1-894f-45d8f96c241e",
+      "antiEcoAttackWon": false,
+      "antiEcoDefenseWon": false
     },
     {
       "date": "2025-11-25",
