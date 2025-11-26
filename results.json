@@ -8,7 +8,7 @@
       "teamName": "LOUD",
       "map": "Split",
       "startingSide": "Attack",
-      "attackOwn": 1,
+      "attackOwn": 2,
       "defenseOwn": 0,
       "pistolAttackWon": false,
       "pistolDefenseWon": false,
@@ -69,16 +69,16 @@
         {
           "id": 6,
           "iglCall": "ULTI YORU B",
-          "isWin": false,
+          "isWin": true,
           "fk": true,
           "fd": false
         },
         {
           "id": 7,
-          "iglCall": "",
+          "iglCall": "DEFAULT B",
           "isWin": false,
           "fk": false,
-          "fd": false
+          "fd": true
         },
         {
           "id": 8,
