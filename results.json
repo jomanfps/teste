@@ -9,7 +9,7 @@
       "map": "Split",
       "startingSide": "Attack",
       "attackOwn": 3,
-      "defenseOwn": 6,
+      "defenseOwn": 7,
       "pistolAttackWon": false,
       "pistolDefenseWon": true,
       "antiEcoAttackWon": false,
@@ -159,9 +159,9 @@
         },
         {
           "id": 19,
-          "iglCall": "",
-          "isWin": false,
-          "fk": false,
+          "iglCall": "DEFAULT",
+          "isWin": true,
+          "fk": true,
           "fd": false
         },
         {
