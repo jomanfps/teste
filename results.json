@@ -187,10 +187,10 @@
         },
         {
           "id": 23,
-          "iglCall": "",
+          "iglCall": "DEFAULT",
           "isWin": false,
-          "fk": false,
-          "fd": true
+          "fk": true,
+          "fd": false
         },
         {
           "id": 24,
