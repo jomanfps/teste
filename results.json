@@ -700,10 +700,10 @@
         },
         {
           "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "kills": null,
+          "deaths": null,
+          "assists": null,
+          "fk": null
         }
       ],
       "id": "4586be7b-4b18-424d-8238-b9cf839b1ddb"
@@ -1161,21 +1161,21 @@
           "kills": 18,
           "deaths": 15,
           "assists": 16,
-          "fk": 0
+          "fk": null
         },
         {
-          "acs": 0,
+          "acs": null,
           "kills": 13,
           "deaths": 18,
           "assists": 7,
-          "fk": 0
+          "fk": null
         },
         {
-          "acs": 0,
+          "acs": null,
           "kills": 14,
           "deaths": 18,
           "assists": 7,
-          "fk": 0
+          "fk": null
         }
       ],
       "id": "17170fce-c31b-44fe-93dd-5d6c92bebac3"
