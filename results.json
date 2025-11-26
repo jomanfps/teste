@@ -68,7 +68,7 @@
         },
         {
           "id": 6,
-          "iglCall": "",
+          "iglCall": "DEFAULT BAÑOS",
           "isWin": false,
           "fk": true,
           "fd": false
