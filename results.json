@@ -106,7 +106,7 @@
           "iglCall": "",
           "isWin": false,
           "fk": false,
-          "fd": false
+          "fd": true
         },
         {
           "id": 12,
