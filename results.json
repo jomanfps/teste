@@ -8,7 +8,7 @@
       "teamName": "2GAME",
       "map": "Bind",
       "startingSide": "Attack",
-      "attackOwn": 2,
+      "attackOwn": 3,
       "defenseOwn": 0,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
@@ -69,13 +69,13 @@
         {
           "id": 6,
           "iglCall": "DEFAULT BAÑOS",
-          "isWin": false,
+          "isWin": true,
           "fk": true,
           "fd": false
         },
         {
           "id": 7,
-          "iglCall": "",
+          "iglCall": "DEFAULT BAÑOS",
           "isWin": false,
           "fk": false,
           "fd": false
