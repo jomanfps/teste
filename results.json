@@ -9,7 +9,7 @@
       "map": "Haven",
       "startingSide": "Attack",
       "attackOwn": 5,
-      "defenseOwn": 6,
+      "defenseOwn": 7,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
       "antiEcoAttackWon": true,
@@ -194,8 +194,8 @@
         },
         {
           "id": 24,
-          "iglCall": "",
-          "isWin": false,
+          "iglCall": "DEFAULT - TIRO C",
+          "isWin": true,
           "fk": true,
           "fd": false
         }
