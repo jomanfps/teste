@@ -7,7 +7,7 @@
       "teamName": "2GAME",
       "map": "Split",
       "startingSide": "Attack",
-      "attackOwn": 2,
+      "attackOwn": 3,
       "defenseOwn": 0,
       "pistolAttackWon": true,
       "pistolDefenseWon": true,
