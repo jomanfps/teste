@@ -8,9 +8,9 @@
       "teamName": "2GAME",
       "map": "Bind",
       "startingSide": "Attack",
-      "attackOwn": 0,
+      "attackOwn": 1,
       "defenseOwn": 0,
-      "pistolAttackWon": false,
+      "pistolAttackWon": true,
       "pistolDefenseWon": false,
       "antiEcoAttackWon": false,
       "antiEcoDefenseWon": false,
@@ -33,10 +33,10 @@
       "rounds": [
         {
           "id": 1,
-          "iglCall": "",
-          "isWin": false,
+          "iglCall": "PISTOL",
+          "isWin": true,
           "fk": false,
-          "fd": false
+          "fd": true
         },
         {
           "id": 2,
