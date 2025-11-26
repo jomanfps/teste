@@ -203,9 +203,9 @@
       "playerStats": [
         {
           "acs": 194,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
+          "kills": 15,
+          "deaths": 16,
+          "assists": 3,
           "fk": 0
         },
         {
