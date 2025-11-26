@@ -141,7 +141,7 @@
           "iglCall": "3-2 ECO",
           "isWin": false,
           "fk": false,
-          "fd": false
+          "fd": true
         },
         {
           "id": 17,
