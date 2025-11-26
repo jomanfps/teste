@@ -244,7 +244,7 @@
       "tier": "Tier 1",
       "teamName": "LOUD",
       "map": "Corrode",
-      "startingSide": "Attack",
+      "startingSide": "Defense",
       "attackOwn": 4,
       "defenseOwn": 5,
       "pistolAttackWon": true,
