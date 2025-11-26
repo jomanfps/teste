@@ -9,7 +9,7 @@
       "map": "Haven",
       "startingSide": "Attack",
       "attackOwn": 5,
-      "defenseOwn": 3,
+      "defenseOwn": 4,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
       "antiEcoAttackWon": true,
@@ -166,9 +166,9 @@
         },
         {
           "id": 20,
-          "iglCall": "DOMINIO A FUERTE",
-          "isWin": false,
-          "fk": false,
+          "iglCall": "DOMINIO A FUERTE Y BAJAR MID",
+          "isWin": true,
+          "fk": true,
           "fd": false
         },
         {
