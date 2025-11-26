@@ -9,7 +9,7 @@
       "map": "Bind",
       "startingSide": "Attack",
       "attackOwn": 7,
-      "defenseOwn": 0,
+      "defenseOwn": 1,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
       "antiEcoAttackWon": true,
@@ -160,8 +160,8 @@
         {
           "id": 19,
           "iglCall": "",
-          "isWin": false,
-          "fk": false,
+          "isWin": true,
+          "fk": true,
           "fd": false
         },
         {
@@ -169,7 +169,7 @@
           "iglCall": "",
           "isWin": false,
           "fk": false,
-          "fd": false
+          "fd": true
         },
         {
           "id": 21,
