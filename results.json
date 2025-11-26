@@ -15,7 +15,7 @@
       "antiEcoAttackWon": true,
       "antiEcoDefenseWon": false,
       "ourComp": [
-        "",
+        "Yoru",
         "",
         "",
         "",
@@ -250,7 +250,7 @@
       "pistolAttackWon": true,
       "pistolDefenseWon": true,
       "ourComp": [
-        "Yoru",
+        "Raze",
         "Raze",
         "Omen",
         "Fade",
@@ -488,7 +488,7 @@
       "pistolAttackWon": false,
       "pistolDefenseWon": false,
       "ourComp": [
-        "Yoru",
+        "Omen",
         "Neon",
         "Omen",
         "Omen",
@@ -724,7 +724,7 @@
       "pistolAttackWon": false,
       "pistolDefenseWon": true,
       "ourComp": [
-        "Tejo",
+        "Fade",
         "Yoru",
         "Astra",
         "Sova",
@@ -960,7 +960,7 @@
       "pistolAttackWon": false,
       "pistolDefenseWon": false,
       "ourComp": [
-        "Yoru",
+        "Viper",
         "Waylay",
         "Brimstone",
         "Fade",
