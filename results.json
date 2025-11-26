@@ -8,7 +8,7 @@
       "map": "Split",
       "startingSide": "Attack",
       "attackOwn": 3,
-      "defenseOwn": 8,
+      "defenseOwn": 10,
       "pistolAttackWon": true,
       "pistolDefenseWon": true,
       "ourComp": [
