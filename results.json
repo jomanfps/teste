@@ -712,7 +712,8 @@
           "assists": 4,
           "fk": 0
         }
-      ]
+      ],
+      "bonusDefenseWon": true
     },
     {
       "date": "2025-11-25",
