@@ -49,7 +49,7 @@
           "id": 3,
           "iglCall": "BONUS",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
