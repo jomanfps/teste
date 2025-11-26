@@ -236,7 +236,9 @@
           "assists": 6,
           "fk": 0
         }
-      ]
+      ],
+      "bonusAttackWon": false,
+      "bonusDefenseWon": false
     },
     {
       "id": "26823441-d2a1-4ace-a490-8a799c5d3f7a",
