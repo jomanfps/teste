@@ -223,9 +223,9 @@
           "fk": 2
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
+          "acs": 123,
+          "kills": 10,
+          "deaths": 17,
           "assists": 0,
           "fk": 0
         },
