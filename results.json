@@ -480,11 +480,11 @@
       "tier": "Tier 1",
       "teamName": "LOUD",
       "map": "Abyss",
-      "startingSide": "Attack",
+      "startingSide": "Defense",
       "attackOwn": 4,
       "defenseOwn": 3,
       "pistolAttackWon": false,
-      "pistolDefenseWon": false,
+      "pistolDefenseWon": true,
       "ourComp": [
         "Tejo",
         "Yoru",
