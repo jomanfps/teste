@@ -16,10 +16,10 @@
       "antiEcoDefenseWon": false,
       "ourComp": [
         "Yoru",
-        "",
-        "",
-        "",
-        ""
+        "Raze",
+        "Sage",
+        "Gekko",
+        "Breach"
       ],
       "enemyComp": [
         "",
