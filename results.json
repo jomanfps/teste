@@ -8,11 +8,11 @@
       "teamName": "2GAME",
       "map": "Haven",
       "startingSide": "Attack",
-      "attackOwn": 1,
+      "attackOwn": 2,
       "defenseOwn": 0,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
-      "antiEcoAttackWon": false,
+      "antiEcoAttackWon": true,
       "antiEcoDefenseWon": false,
       "ourComp": [
         "Yoru",
@@ -41,7 +41,7 @@
         {
           "id": 2,
           "iglCall": "ANTIECO",
-          "isWin": false,
+          "isWin": true,
           "fk": true,
           "fd": false
         },
