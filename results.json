@@ -9,7 +9,7 @@
       "map": "Split",
       "startingSide": "Attack",
       "attackOwn": 3,
-      "defenseOwn": 8,
+      "defenseOwn": 9,
       "pistolAttackWon": false,
       "pistolDefenseWon": true,
       "antiEcoAttackWon": false,
@@ -174,7 +174,7 @@
         {
           "id": 21,
           "iglCall": "DEFAULT - TIRO A",
-          "isWin": false,
+          "isWin": true,
           "fk": true,
           "fd": false
         },
