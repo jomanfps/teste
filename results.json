@@ -247,7 +247,7 @@
       "startingSide": "Defense",
       "attackOwn": 4,
       "defenseOwn": 5,
-      "pistolAttackWon": true,
+      "pistolAttackWon": false,
       "pistolDefenseWon": false,
       "ourComp": [
         "Yoru",
