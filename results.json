@@ -112,7 +112,7 @@
           "id": 12,
           "iglCall": "",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
