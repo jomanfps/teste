@@ -8,7 +8,7 @@
       "teamName": "2GAME",
       "map": "Bind",
       "startingSide": "Attack",
-      "attackOwn": 6,
+      "attackOwn": 7,
       "defenseOwn": 0,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
@@ -104,7 +104,7 @@
         {
           "id": 11,
           "iglCall": "DEFAULT JARDIN",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
