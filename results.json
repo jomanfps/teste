@@ -22,8 +22,8 @@
         "Fade"
       ],
       "enemyComp": [
-        "",
-        "",
+        "Waylay",
+        "Yoru",
         "",
         "",
         ""
