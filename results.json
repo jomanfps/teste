@@ -1181,7 +1181,8 @@
         }
       ],
       "id": "17170fce-c31b-44fe-93dd-5d6c92bebac3",
-      "antiEcoDefenseWon": true
+      "antiEcoDefenseWon": true,
+      "antiEcoAttackWon": true
     },
     {
       "date": "2025-11-24",
