@@ -147,14 +147,14 @@
           "id": 17,
           "iglCall": "RETAKE COSTAS",
           "isWin": true,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
           "id": 18,
           "iglCall": "RETAKE COSTAS",
           "isWin": true,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
