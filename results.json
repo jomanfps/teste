@@ -35,7 +35,7 @@
           "id": 1,
           "iglCall": "PISTOL LIQUID",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
