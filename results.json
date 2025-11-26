@@ -8,7 +8,7 @@
       "teamName": "2GAME",
       "map": "Bind",
       "startingSide": "Attack",
-      "attackOwn": 6,
+      "attackOwn": 7,
       "defenseOwn": 0,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
@@ -111,7 +111,7 @@
         {
           "id": 12,
           "iglCall": "DIRECTA A CON ULTIS",
-          "isWin": false,
+          "isWin": true,
           "fk": true,
           "fd": false
         },
