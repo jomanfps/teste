@@ -8,7 +8,7 @@
       "teamName": "2GAME",
       "map": "Haven",
       "startingSide": "Attack",
-      "attackOwn": 3,
+      "attackOwn": 4,
       "defenseOwn": 0,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
@@ -90,7 +90,7 @@
         {
           "id": 9,
           "iglCall": "DEFAULT A",
-          "isWin": false,
+          "isWin": true,
           "fk": true,
           "fd": false
         },
@@ -99,7 +99,7 @@
           "iglCall": "",
           "isWin": false,
           "fk": false,
-          "fd": false
+          "fd": true
         },
         {
           "id": 11,
