@@ -1,3 +1,1436 @@
 {
-  "scrims": []
+  "scrims": [
+    {
+      "date": "2025-11-25",
+      "region": "NA",
+      "tier": "Tier 2",
+      "teamName": "2GAME",
+      "map": "Split",
+      "startingSide": "Attack",
+      "attackOwn": 3,
+      "defenseOwn": 10,
+      "pistolAttackWon": true,
+      "pistolDefenseWon": true,
+      "ourComp": [
+        "Yoru",
+        "Raze",
+        "Omen",
+        "Fade",
+        "Viper"
+      ],
+      "enemyComp": [
+        "Yoru",
+        "Waylay",
+        "Fade",
+        "Viper",
+        "Astra"
+      ],
+      "vodLink": "https://youtube.com/live/Skg3pc7nBIc?feature=share",
+      "reviewLink": "",
+      "rounds": [
+        {
+          "id": 1,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 2,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 3,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 4,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 5,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 6,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 7,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 8,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 9,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 10,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 11,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 12,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 13,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 14,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 15,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 16,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 17,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 18,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 19,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 20,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 21,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 22,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 23,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 24,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        }
+      ],
+      "playerStats": [
+        {
+          "acs": 204,
+          "kills": 17,
+          "deaths": 17,
+          "assists": 3,
+          "fk": 6
+        },
+        {
+          "acs": 201,
+          "kills": 15,
+          "deaths": 14,
+          "assists": 5,
+          "fk": 3
+        },
+        {
+          "acs": 146,
+          "kills": 11,
+          "deaths": 15,
+          "assists": 14,
+          "fk": 0
+        },
+        {
+          "acs": 183,
+          "kills": 16,
+          "deaths": 15,
+          "assists": 6,
+          "fk": 1
+        },
+        {
+          "acs": 262,
+          "kills": 25,
+          "deaths": 15,
+          "assists": 1,
+          "fk": 2
+        }
+      ],
+      "id": "f86401f6-bcd3-4bf1-894f-45d8f96c241e"
+    },
+    {
+      "date": "2025-11-25",
+      "region": "NA",
+      "tier": "Tier 1",
+      "teamName": "LOUD",
+      "map": "Breeze",
+      "startingSide": "Attack",
+      "attackOwn": 4,
+      "defenseOwn": 5,
+      "pistolAttackWon": true,
+      "pistolDefenseWon": false,
+      "ourComp": [
+        "Yoru",
+        "Neon",
+        "Omen",
+        "Omen",
+        "Chamber"
+      ],
+      "enemyComp": [
+        "Waylay",
+        "Sova",
+        "Kayo",
+        "Viper",
+        "Omen"
+      ],
+      "vodLink": "https://youtube.com/live/HaDE3qfsRwg?feature=share",
+      "reviewLink": "",
+      "rounds": [
+        {
+          "id": 1,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 2,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 3,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 4,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 5,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 6,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 7,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 8,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 9,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 10,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 11,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 12,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 13,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 14,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 15,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 16,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 17,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 18,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 19,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 20,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 21,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 22,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 23,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 24,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        }
+      ],
+      "playerStats": [
+        {
+          "acs": 163,
+          "kills": 14,
+          "deaths": 20,
+          "assists": 2,
+          "fk": 2
+        },
+        {
+          "acs": 138,
+          "kills": 11,
+          "deaths": 20,
+          "assists": 5,
+          "fk": 1
+        },
+        {
+          "acs": 226,
+          "kills": 16,
+          "deaths": 17,
+          "assists": 9,
+          "fk": 3
+        },
+        {
+          "acs": 118,
+          "kills": 10,
+          "deaths": 21,
+          "assists": 3,
+          "fk": 0
+        },
+        {
+          "acs": 276,
+          "kills": 23,
+          "deaths": 16,
+          "assists": 2,
+          "fk": 6
+        }
+      ],
+      "id": "9c5ba57a-53ab-4855-bf13-3c2076da2af0"
+    },
+    {
+      "date": "2025-11-25",
+      "region": "NA",
+      "tier": "Tier 1",
+      "teamName": "LOUD",
+      "map": "Abyss",
+      "startingSide": "Attack",
+      "attackOwn": 4,
+      "defenseOwn": 3,
+      "pistolAttackWon": false,
+      "pistolDefenseWon": false,
+      "ourComp": [
+        "Tejo",
+        "Yoru",
+        "Astra",
+        "Sova",
+        "Chamber"
+      ],
+      "enemyComp": [
+        "Yoru",
+        "Harbor",
+        "Astra",
+        "Sova",
+        "Chamber"
+      ],
+      "vodLink": "https://youtube.com/live/nV6Pshsh6tY?feature=share",
+      "reviewLink": "",
+      "rounds": [
+        {
+          "id": 1,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 2,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 3,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 4,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 5,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 6,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 7,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 8,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 9,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 10,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 11,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 12,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 13,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 14,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 15,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 16,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 17,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 18,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 19,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 20,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 21,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 22,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 23,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 24,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        }
+      ],
+      "playerStats": [
+        {
+          "acs": 0,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "fk": 0
+        },
+        {
+          "acs": 0,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "fk": 0
+        },
+        {
+          "acs": 0,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "fk": 0
+        },
+        {
+          "acs": 0,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "fk": 0
+        },
+        {
+          "acs": 0,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "fk": 0
+        }
+      ],
+      "id": "4586be7b-4b18-424d-8238-b9cf839b1ddb"
+    },
+    {
+      "date": "2025-11-24",
+      "region": "BR",
+      "tier": "Academy",
+      "teamName": "ELEVATE",
+      "map": "Bind",
+      "startingSide": "Defense",
+      "attackOwn": 9,
+      "defenseOwn": 3,
+      "pistolAttackWon": false,
+      "pistolDefenseWon": false,
+      "ourComp": [
+        "Yoru",
+        "Waylay",
+        "Brimstone",
+        "Fade",
+        "Viper"
+      ],
+      "enemyComp": [
+        "Waylay",
+        "Yoru",
+        "Fade",
+        "Viper",
+        "Brimstone"
+      ],
+      "vodLink": "https://youtube.com/live/Zq5oSvqfaMA?feature=share",
+      "reviewLink": "",
+      "rounds": [
+        {
+          "id": 1,
+          "iglCall": "PISTOL",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 2,
+          "iglCall": "ECO",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 3,
+          "iglCall": "ANTIECO",
+          "isWin": true,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 4,
+          "iglCall": "DEFAULT",
+          "isWin": false,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 5,
+          "iglCall": "DEFAULT",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 6,
+          "iglCall": "ANTIECO",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 7,
+          "iglCall": "DEFAULT",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 8,
+          "iglCall": "TROCA MID",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 9,
+          "iglCall": "DEFAULT",
+          "isWin": false,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 10,
+          "iglCall": "TROCA MID",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 11,
+          "iglCall": "ANTIECO",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 12,
+          "iglCall": "DEFAULT",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 13,
+          "iglCall": "PISTOL",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 14,
+          "iglCall": "ECO",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 15,
+          "iglCall": "DEFA BAÑOS",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 16,
+          "iglCall": "ECO DEFA BAÑOS",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 17,
+          "iglCall": "DEFA JARDIN",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 18,
+          "iglCall": "EXPLO HOOKA",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 19,
+          "iglCall": "DEFAULT BAÑOS",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 20,
+          "iglCall": "ECO",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 21,
+          "iglCall": "DEFA BAÑOS",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 22,
+          "iglCall": "MARCAR",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 23,
+          "iglCall": "FAKE DEFA BAÑOS",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 24,
+          "iglCall": "DEFA",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        }
+      ],
+      "playerStats": [
+        {
+          "acs": 195,
+          "kills": 18,
+          "deaths": 18,
+          "assists": 1,
+          "fk": 6
+        },
+        {
+          "acs": 203,
+          "kills": 19,
+          "deaths": 18,
+          "assists": 2,
+          "fk": 2
+        },
+        {
+          "acs": 143,
+          "kills": 12,
+          "deaths": 14,
+          "assists": 9,
+          "fk": 2
+        },
+        {
+          "acs": 170,
+          "kills": 15,
+          "deaths": 17,
+          "assists": 2,
+          "fk": 1
+        },
+        {
+          "acs": 186,
+          "kills": 14,
+          "deaths": 17,
+          "assists": 6,
+          "fk": 1
+        }
+      ],
+      "id": "1e2e0125-51a8-43d8-85df-d8b8fb83dddf"
+    },
+    {
+      "date": "2025-11-24",
+      "region": "BR",
+      "tier": "Tier 1",
+      "teamName": "LOUD",
+      "map": "Bind",
+      "startingSide": "Attack",
+      "attackOwn": 7,
+      "defenseOwn": 5,
+      "pistolAttackWon": true,
+      "pistolDefenseWon": true,
+      "ourComp": [
+        "Yoru",
+        "Waylay",
+        "Brimstone",
+        "Fade",
+        "Viper"
+      ],
+      "enemyComp": [
+        "Waylay",
+        "Kayo",
+        "Tejo",
+        "Viper",
+        "Brimstone"
+      ],
+      "vodLink": "https://youtube.com/live/lB-T-bBqnUM?feature=share",
+      "reviewLink": "",
+      "rounds": [
+        {
+          "id": 1,
+          "iglCall": "PISTOL",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 2,
+          "iglCall": "ANTIECO",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 3,
+          "iglCall": "DEFA JARDIN",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 4,
+          "iglCall": "DEFA BAÑO",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 5,
+          "iglCall": "DEFA BAÑO",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 6,
+          "iglCall": "DEFA HOOKA",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 7,
+          "iglCall": "DEFA BAÑO",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 8,
+          "iglCall": "MARCAR",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 9,
+          "iglCall": "FAKE DEFA BAÑO",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 10,
+          "iglCall": "DEFA JARDIN",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 11,
+          "iglCall": "DEFA BAÑOS",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 12,
+          "iglCall": "DEFA BAÑOS",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 13,
+          "iglCall": "PISTOL",
+          "isWin": true,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 14,
+          "iglCall": "ANTI-ECO",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 15,
+          "iglCall": "BONUS",
+          "isWin": false,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 16,
+          "iglCall": "DEFAULT",
+          "isWin": false,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 17,
+          "iglCall": "ECO",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 18,
+          "iglCall": "DEFAULT",
+          "isWin": true,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 19,
+          "iglCall": "BATIDA FONDO",
+          "isWin": false,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 20,
+          "iglCall": "DEFAULT",
+          "isWin": true,
+          "fk": true,
+          "fd": false
+        },
+        {
+          "id": 21,
+          "iglCall": "DEFAULT",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 22,
+          "iglCall": "ECO",
+          "isWin": false,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 23,
+          "iglCall": "DEFAULT",
+          "isWin": true,
+          "fk": false,
+          "fd": true
+        },
+        {
+          "id": 24,
+          "iglCall": "DEFAULT",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        }
+      ],
+      "playerStats": [
+        {
+          "acs": 0,
+          "kills": 14,
+          "deaths": 17,
+          "assists": 6,
+          "fk": 0
+        },
+        {
+          "acs": 0,
+          "kills": 24,
+          "deaths": 18,
+          "assists": 2,
+          "fk": 0
+        },
+        {
+          "acs": 0,
+          "kills": 18,
+          "deaths": 15,
+          "assists": 16,
+          "fk": 0
+        },
+        {
+          "acs": 0,
+          "kills": 13,
+          "deaths": 18,
+          "assists": 7,
+          "fk": 0
+        },
+        {
+          "acs": 0,
+          "kills": 14,
+          "deaths": 18,
+          "assists": 7,
+          "fk": 0
+        }
+      ],
+      "id": "17170fce-c31b-44fe-93dd-5d6c92bebac3"
+    },
+    {
+      "date": "2025-11-24",
+      "region": "BR",
+      "tier": "Tier 1",
+      "teamName": "LOUD",
+      "map": "Haven",
+      "startingSide": "Attack",
+      "attackOwn": 6,
+      "defenseOwn": 4,
+      "pistolAttackWon": false,
+      "pistolDefenseWon": false,
+      "ourComp": [
+        "Yoru",
+        "Neon",
+        "Omen",
+        "Sova",
+        "Cypher"
+      ],
+      "enemyComp": [
+        "Yoru",
+        "Viper",
+        "Fade",
+        "Killjoy",
+        "Omen"
+      ],
+      "vodLink": "https://youtube.com/live/dBRnaLdY4J8?feature=share",
+      "reviewLink": "",
+      "rounds": [
+        {
+          "id": 1,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 2,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 3,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 4,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 5,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 6,
+          "iglCall": "",
+          "isWin": true,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 7,
+          "iglCall": "",
+          "isWin": true,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 8,
+          "iglCall": "",
+          "isWin": true,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 9,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 10,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 11,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 12,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 13,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 14,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 15,
+          "iglCall": "yoru A",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 16,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 17,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 18,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 19,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 20,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 21,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 22,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 23,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        },
+        {
+          "id": 24,
+          "iglCall": "",
+          "isWin": false,
+          "fk": false,
+          "fd": false
+        }
+      ],
+      "playerStats": [
+        {
+          "acs": 200,
+          "kills": 18,
+          "deaths": 17,
+          "assists": 2,
+          "fk": 3
+        },
+        {
+          "acs": 251,
+          "kills": 20,
+          "deaths": 20,
+          "assists": 6,
+          "fk": 5
+        },
+        {
+          "acs": 154,
+          "kills": 12,
+          "deaths": 20,
+          "assists": 3,
+          "fk": 0
+        },
+        {
+          "acs": 170,
+          "kills": 12,
+          "deaths": 21,
+          "assists": 5,
+          "fk": 0
+        },
+        {
+          "acs": 72,
+          "kills": 5,
+          "deaths": 18,
+          "assists": 1,
+          "fk": 0
+        }
+      ],
+      "id": "6c6f4925-e8fa-47a2-ad95-8f008e3aecea"
+    }
+  ],
+  "teamConfig": {
+    "ourPlayerNames": [
+      "leadssj",
+      "tkzin",
+      "KRÜ PHC",
+      "KRÜ BENG",
+      "nagz"
+    ],
+    "enemyPlayerNames": [
+      "Enemy 1",
+      "Enemy 2",
+      "Enemy 3",
+      "Enemy 4",
+      "Enemy 5"
+    ]
+  }
 }
