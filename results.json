@@ -82,7 +82,7 @@
         },
         {
           "id": 8,
-          "iglCall": "",
+          "iglCall": "DEFAULT B",
           "isWin": false,
           "fk": false,
           "fd": false
