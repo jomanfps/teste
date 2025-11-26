@@ -68,9 +68,9 @@
         },
         {
           "id": 6,
-          "iglCall": "",
+          "iglCall": "FAKE DOMINIO A",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
