@@ -678,21 +678,21 @@
           "fk": null
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": null,
+          "kills": null,
+          "deaths": null,
+          "assists": null,
+          "fk": null
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": null,
+          "kills": null,
+          "deaths": null,
+          "assists": null,
+          "fk": null
         },
         {
-          "acs": 0,
+          "acs": null,
           "kills": 0,
           "deaths": 0,
           "assists": 0,
@@ -1147,17 +1147,17 @@
           "kills": 14,
           "deaths": 17,
           "assists": 6,
-          "fk": 0
+          "fk": null
         },
         {
           "acs": null,
           "kills": 24,
           "deaths": 18,
           "assists": 2,
-          "fk": 0
+          "fk": null
         },
         {
-          "acs": 0,
+          "acs": null,
           "kills": 18,
           "deaths": 15,
           "assists": 16,
