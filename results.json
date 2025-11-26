@@ -196,7 +196,7 @@
           "id": 24,
           "iglCall": "",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         }
       ],
