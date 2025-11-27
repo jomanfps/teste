@@ -9,9 +9,9 @@
       "map": "Ascent",
       "startingSide": "Attack",
       "attackOwn": 8,
-      "defenseOwn": 0,
+      "defenseOwn": 4,
       "attackEnemy": 0,
-      "defenseEnemy": 3,
+      "defenseEnemy": 0,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
       "antiEcoAttackWon": true,
@@ -150,7 +150,7 @@
         {
           "id": 17,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
@@ -164,21 +164,21 @@
         {
           "id": 19,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
         {
           "id": 20,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
         {
           "id": 21,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
