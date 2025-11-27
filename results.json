@@ -1200,6 +1200,7 @@
       "id": "9c5ba57a-53ab-4855-bf13-3c2076da2af0",
       "attackEnemy": 8,
       "defenseEnemy": 7,
+      "antiEcoDefenseWon": false,
       "bonusAttackWon": false,
       "bonusDefenseWon": false
     },
