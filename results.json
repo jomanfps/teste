@@ -8,15 +8,15 @@
       "teamName": "",
       "map": "Ascent",
       "startingSide": "Attack",
-      "attackOwn": 0,
+      "attackOwn": 3,
       "defenseOwn": 0,
       "attackEnemy": 0,
       "defenseEnemy": 0,
-      "pistolAttackWon": false,
+      "pistolAttackWon": true,
       "pistolDefenseWon": false,
-      "antiEcoAttackWon": false,
+      "antiEcoAttackWon": true,
       "antiEcoDefenseWon": false,
-      "bonusAttackWon": false,
+      "bonusAttackWon": true,
       "bonusDefenseWon": false,
       "ourComp": [
         "",
@@ -38,21 +38,21 @@
         {
           "id": 1,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
         {
           "id": 2,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
         {
           "id": 3,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
