@@ -1134,8 +1134,8 @@
         {
           "id": 21,
           "iglCall": "42",
-          "isWin": true,
-          "fk": true,
+          "isWin": false,
+          "fk": false,
           "fd": false
         },
         {
