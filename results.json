@@ -206,39 +206,39 @@
       ],
       "playerStats": [
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
+          "acs": 204,
+          "kills": 17,
+          "deaths": 17,
+          "assists": 3,
+          "fk": 6
+        },
+        {
+          "acs": 201,
+          "kills": 15,
+          "deaths": 14,
+          "assists": 5,
+          "fk": 3
+        },
+        {
+          "acs": 146,
+          "kills": 11,
+          "deaths": 15,
+          "assists": 14,
           "fk": 0
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": 183,
+          "kills": 16,
+          "deaths": 15,
+          "assists": 6,
+          "fk": 1
         },
         {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
-        },
-        {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
-        },
-        {
-          "acs": 0,
-          "kills": 0,
-          "deaths": 0,
-          "assists": 0,
-          "fk": 0
+          "acs": 262,
+          "kills": 25,
+          "deaths": 15,
+          "assists": 1,
+          "fk": 2
         }
       ]
     },
