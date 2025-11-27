@@ -8,7 +8,7 @@
       "teamName": "",
       "map": "Ascent",
       "startingSide": "Attack",
-      "attackOwn": 7,
+      "attackOwn": 8,
       "defenseOwn": 0,
       "attackEnemy": 0,
       "defenseEnemy": 3,
@@ -108,7 +108,7 @@
         {
           "id": 11,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
