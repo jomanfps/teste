@@ -11,7 +11,7 @@
       "attackOwn": 3,
       "defenseOwn": 0,
       "attackEnemy": 0,
-      "defenseEnemy": 0,
+      "defenseEnemy": 3,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
       "antiEcoAttackWon": true,
