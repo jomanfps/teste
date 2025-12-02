@@ -37,7 +37,7 @@
       "rounds": [
         {
           "id": 1,
-          "iglCall": "",
+          "iglCall": "PISTOL B",
           "isWin": false,
           "fk": false,
           "fd": false
