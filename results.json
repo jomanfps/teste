@@ -8,9 +8,9 @@
       "teamName": "X",
       "map": "Ascent",
       "startingSide": "Attack",
-      "attackOwn": 3,
+      "attackOwn": 7,
       "defenseOwn": 0,
-      "attackEnemy": 9,
+      "attackEnemy": 5,
       "defenseEnemy": 12,
       "pistolAttackWon": true,
       "pistolDefenseWon": false,
@@ -59,14 +59,14 @@
         {
           "id": 4,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
         {
           "id": 5,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
@@ -87,14 +87,14 @@
         {
           "id": 8,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
         {
           "id": 9,
           "iglCall": "",
-          "isWin": false,
+          "isWin": true,
           "fk": false,
           "fd": false
         },
