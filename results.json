@@ -39,7 +39,7 @@
           "id": 1,
           "iglCall": "PISTOL B",
           "isWin": false,
-          "fk": false,
+          "fk": true,
           "fd": false
         },
         {
