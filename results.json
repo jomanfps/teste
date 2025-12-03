@@ -2356,9 +2356,9 @@
             },
             {
               "id": 20,
-              "iglCall": "",
+              "iglCall": "SPLIT B",
               "isWin": true,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
