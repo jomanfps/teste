@@ -2194,9 +2194,9 @@
           "teamName": "PECA",
           "map": "Bind",
           "startingSide": "Attack",
-          "attackOwn": 2,
+          "attackOwn": 3,
           "defenseOwn": 0,
-          "attackEnemy": 10,
+          "attackEnemy": 9,
           "defenseEnemy": 12,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -2287,7 +2287,7 @@
             {
               "id": 10,
               "iglCall": "REDOMINIO JARDIN",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
