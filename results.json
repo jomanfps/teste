@@ -2194,15 +2194,15 @@
           "teamName": "ASD",
           "map": "Split",
           "startingSide": "Attack",
-          "attackOwn": 6,
+          "attackOwn": 8,
           "defenseOwn": 6,
-          "attackEnemy": 6,
+          "attackEnemy": 4,
           "defenseEnemy": 6,
-          "pistolAttackWon": false,
+          "pistolAttackWon": true,
           "pistolDefenseWon": false,
-          "antiEcoAttackWon": false,
+          "antiEcoAttackWon": true,
           "antiEcoDefenseWon": false,
-          "bonusAttackWon": false,
+          "bonusAttackWon": true,
           "bonusDefenseWon": false,
           "ourComp": [
             "",
@@ -2224,14 +2224,14 @@
             {
               "id": 1,
               "iglCall": "",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
             {
               "id": 2,
               "iglCall": "",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
