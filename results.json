@@ -2195,9 +2195,9 @@
           "map": "Split",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 4,
+          "defenseOwn": 6,
           "attackEnemy": 12,
-          "defenseEnemy": 8,
+          "defenseEnemy": 6,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -2279,16 +2279,16 @@
             },
             {
               "id": 9,
-              "iglCall": "",
-              "isWin": false,
+              "iglCall": "TIRO B",
+              "isWin": true,
               "fk": true,
               "fd": false
             },
             {
               "id": 10,
-              "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "iglCall": "ANTIECO",
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
