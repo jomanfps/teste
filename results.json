@@ -2641,32 +2641,32 @@
               "fk": 0
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
+              "acs": 204,
+              "kills": 17,
+              "deaths": 17,
+              "assists": 4,
               "fk": 0
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 166,
+              "kills": 15,
+              "deaths": 13,
+              "assists": 6,
+              "fk": 5
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 239,
+              "kills": 22,
+              "deaths": 17,
+              "assists": 2,
+              "fk": 3
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 202,
+              "kills": 17,
+              "deaths": 17,
+              "assists": 13,
+              "fk": 1
             }
           ]
         },
