@@ -2195,14 +2195,14 @@
           "map": "Split",
           "startingSide": "Attack",
           "attackOwn": 6,
-          "defenseOwn": 1,
+          "defenseOwn": 2,
           "attackEnemy": 6,
-          "defenseEnemy": 11,
+          "defenseEnemy": 10,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
-          "bonusAttackWon": true,
+          "bonusAttackWon": false,
           "bonusDefenseWon": false,
           "ourComp": [
             "",
@@ -2321,8 +2321,8 @@
             },
             {
               "id": 15,
-              "iglCall": "",
-              "isWin": false,
+              "iglCall": "D",
+              "isWin": true,
               "fk": false,
               "fd": false
             },
