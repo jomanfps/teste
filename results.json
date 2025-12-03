@@ -2309,7 +2309,7 @@
               "id": 13,
               "iglCall": "PISTOL AVANZO MID",
               "isWin": true,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
