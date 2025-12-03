@@ -2337,7 +2337,7 @@
               "id": 17,
               "iglCall": "ECO DOMINIO JARDIN",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
