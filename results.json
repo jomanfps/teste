@@ -2335,9 +2335,9 @@
             },
             {
               "id": 17,
-              "iglCall": "",
+              "iglCall": "DEFA",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
