@@ -2194,9 +2194,9 @@
           "teamName": "SOLID",
           "map": "Split",
           "startingSide": "Attack",
-          "attackOwn": 4,
+          "attackOwn": 5,
           "defenseOwn": 1,
-          "attackEnemy": 8,
+          "attackEnemy": 7,
           "defenseEnemy": 11,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -2287,7 +2287,7 @@
             {
               "id": 10,
               "iglCall": "DEFA CUERDA",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
