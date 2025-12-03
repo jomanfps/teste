@@ -2194,9 +2194,9 @@
           "teamName": "PECA",
           "map": "Bind",
           "startingSide": "Attack",
-          "attackOwn": 4,
+          "attackOwn": 5,
           "defenseOwn": 0,
-          "attackEnemy": 8,
+          "attackEnemy": 7,
           "defenseEnemy": 12,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -2301,7 +2301,7 @@
             {
               "id": 12,
               "iglCall": "TIRO BAÑOS",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
