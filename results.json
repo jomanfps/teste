@@ -2195,9 +2195,9 @@
           "map": "Bind",
           "startingSide": "Attack",
           "attackOwn": 5,
-          "defenseOwn": 5,
+          "defenseOwn": 6,
           "attackEnemy": 7,
-          "defenseEnemy": 7,
+          "defenseEnemy": 6,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -2385,9 +2385,9 @@
             {
               "id": 24,
               "iglCall": "DIRECTA JARDIN ULTI YORU",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
-              "fd": false
+              "fd": true
             }
           ],
           "playerStats": [
