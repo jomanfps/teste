@@ -2265,10 +2265,10 @@
             },
             {
               "id": 7,
-              "iglCall": "",
+              "iglCall": "ECO MID",
               "isWin": false,
-              "fk": true,
-              "fd": false
+              "fk": false,
+              "fd": true
             },
             {
               "id": 8,
