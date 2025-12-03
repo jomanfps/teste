@@ -2194,9 +2194,9 @@
           "teamName": "PECA",
           "map": "Bind",
           "startingSide": "Attack",
-          "attackOwn": 1,
+          "attackOwn": 2,
           "defenseOwn": 0,
-          "attackEnemy": 11,
+          "attackEnemy": 10,
           "defenseEnemy": 12,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -2245,7 +2245,7 @@
             {
               "id": 4,
               "iglCall": "DEFAULT DRX",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
@@ -2253,7 +2253,7 @@
               "id": 5,
               "iglCall": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
