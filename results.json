@@ -2202,8 +2202,8 @@
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
-          "bonusAttackWon": false,
-          "bonusDefenseWon": false,
+          "bonusAttackWon": true,
+          "bonusDefenseWon": true,
           "ourComp": [
             "",
             "",
@@ -2321,7 +2321,7 @@
             },
             {
               "id": 15,
-              "iglCall": "D",
+              "iglCall": "DEFA",
               "isWin": true,
               "fk": false,
               "fd": false
