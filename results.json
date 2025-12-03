@@ -2891,8 +2891,8 @@
             },
             {
               "acs": 119,
-              "kills": 9,
-              "deaths": 23,
+              "kills": -9,
+              "deaths": 9,
               "assists": 1,
               "fk": 4
             },
