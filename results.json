@@ -2372,7 +2372,7 @@
               "id": 22,
               "iglCall": "DEFAULT TIRO B",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
