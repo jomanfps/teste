@@ -2244,7 +2244,7 @@
             },
             {
               "id": 4,
-              "iglCall": "",
+              "iglCall": "DEFAULT DRX",
               "isWin": false,
               "fk": true,
               "fd": false
