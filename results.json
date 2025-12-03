@@ -2195,9 +2195,9 @@
           "map": "Split",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 6,
+          "defenseOwn": 7,
           "attackEnemy": 12,
-          "defenseEnemy": 6,
+          "defenseEnemy": 5,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -2301,15 +2301,15 @@
             {
               "id": 12,
               "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
               "id": 13,
-              "iglCall": "",
+              "iglCall": "PISTOL CUERDA",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
