@@ -2202,8 +2202,8 @@
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
-          "bonusAttackWon": true,
-          "bonusDefenseWon": true,
+          "bonusAttackWon": false,
+          "bonusDefenseWon": false,
           "ourComp": [
             "Raze",
             "Fade",
