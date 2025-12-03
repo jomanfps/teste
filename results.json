@@ -2195,13 +2195,13 @@
           "map": "Bind",
           "startingSide": "Attack",
           "attackOwn": 5,
-          "defenseOwn": 1,
+          "defenseOwn": 2,
           "attackEnemy": 7,
-          "defenseEnemy": 11,
+          "defenseEnemy": 10,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
-          "antiEcoDefenseWon": false,
+          "antiEcoDefenseWon": true,
           "bonusAttackWon": false,
           "bonusDefenseWon": false,
           "ourComp": [
@@ -2315,7 +2315,7 @@
             {
               "id": 14,
               "iglCall": "ANTI-ECO",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
