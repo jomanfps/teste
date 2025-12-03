@@ -2314,10 +2314,10 @@
             },
             {
               "id": 14,
-              "iglCall": "",
+              "iglCall": "ANTI-ECO",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 15,
