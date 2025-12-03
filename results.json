@@ -2187,6 +2187,248 @@
       "createdAt": "2025-12-03T16:51:01.322Z",
       "scrims": [
         {
+          "id": "e7a1c94b-d625-43ab-8ed9-4515847887fe",
+          "date": "2025-12-03",
+          "region": "BR",
+          "tier": "Tier 2",
+          "teamName": "PECA",
+          "map": "Ascent",
+          "startingSide": "Attack",
+          "attackOwn": 0,
+          "defenseOwn": 0,
+          "attackEnemy": 0,
+          "defenseEnemy": 0,
+          "pistolAttackWon": false,
+          "pistolDefenseWon": false,
+          "antiEcoAttackWon": false,
+          "antiEcoDefenseWon": false,
+          "bonusAttackWon": false,
+          "bonusDefenseWon": false,
+          "ourComp": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "enemyComp": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vodLink": "",
+          "reviewLink": "",
+          "rounds": [
+            {
+              "id": 1,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 2,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 3,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 4,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 5,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 6,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 7,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 8,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 9,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 10,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 11,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 12,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 13,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 14,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 15,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 16,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 17,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 18,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 19,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 20,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 21,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 22,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 23,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 24,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            }
+          ],
+          "playerStats": [
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            }
+          ]
+        },
+        {
           "id": "9c349e28-e2ba-48b4-9585-2b7bf85847d2",
           "date": "2025-12-03",
           "region": "BR",
@@ -2392,39 +2634,39 @@
           ],
           "playerStats": [
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 189,
+              "kills": 16,
+              "deaths": 19,
+              "assists": 8,
+              "fk": 4
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 279,
+              "kills": 25,
+              "deaths": 16,
+              "assists": 7,
+              "fk": 2
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 119,
+              "kills": 9,
+              "deaths": 23,
+              "assists": 1,
+              "fk": 4
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 151,
+              "kills": 9,
+              "deaths": 20,
+              "assists": 6,
+              "fk": 1
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 204,
+              "kills": 18,
+              "deaths": 18,
+              "assists": 7,
+              "fk": 1
             }
           ]
         }
