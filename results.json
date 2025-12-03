@@ -2195,9 +2195,9 @@
           "map": "Split",
           "startingSide": "Attack",
           "attackOwn": 6,
-          "defenseOwn": 2,
+          "defenseOwn": 3,
           "attackEnemy": 6,
-          "defenseEnemy": 10,
+          "defenseEnemy": 9,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -2336,13 +2336,13 @@
             {
               "id": 17,
               "iglCall": "DEFA",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
             {
               "id": 18,
-              "iglCall": "",
+              "iglCall": "1-3-1",
               "isWin": false,
               "fk": false,
               "fd": false
