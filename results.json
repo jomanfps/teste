@@ -2344,12 +2344,12 @@
               "id": 18,
               "iglCall": "DEFAULT MID",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
               "id": 19,
-              "iglCall": "",
+              "iglCall": "DEFAULT RAMPA",
               "isWin": false,
               "fk": false,
               "fd": false
