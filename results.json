@@ -2218,14 +2218,14 @@
             "",
             ""
           ],
-          "vodLink": "",
+          "vodLink": "enc_1b1706191e08473344512d40406b0a0a1601070748450616405303350f1b1f0808463429140c14185e1751044401401e2d031c4c02440106575a295e1c131306",
           "reviewLink": "",
           "rounds": [
             {
               "id": 1,
               "iglCall": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
