@@ -2205,18 +2205,18 @@
           "bonusAttackWon": true,
           "bonusDefenseWon": false,
           "ourComp": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Raze",
+            "Fade",
+            "Yoru",
+            "Viper",
+            "Astra"
           ],
           "enemyComp": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Raze",
+            "Fade",
+            "Astra",
+            "Viper",
+            "Omen"
           ],
           "vodLink": "",
           "reviewLink": "",
