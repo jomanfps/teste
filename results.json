@@ -2316,8 +2316,8 @@
               "id": 14,
               "iglCall": "ECO",
               "isWin": true,
-              "fk": false,
-              "fd": true
+              "fk": true,
+              "fd": false
             },
             {
               "id": 15,
