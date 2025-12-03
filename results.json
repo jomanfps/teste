@@ -2195,9 +2195,9 @@
           "map": "Bind",
           "startingSide": "Attack",
           "attackOwn": 5,
-          "defenseOwn": 4,
+          "defenseOwn": 5,
           "attackEnemy": 7,
-          "defenseEnemy": 8,
+          "defenseEnemy": 7,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -2370,9 +2370,9 @@
             },
             {
               "id": 22,
-              "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "iglCall": "DEFAULT JARDIN",
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
