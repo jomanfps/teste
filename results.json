@@ -2194,9 +2194,9 @@
           "teamName": "PECA",
           "map": "Split",
           "startingSide": "Defense",
-          "attackOwn": 5,
+          "attackOwn": 6,
           "defenseOwn": 7,
-          "attackEnemy": 7,
+          "attackEnemy": 6,
           "defenseEnemy": 5,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
@@ -2364,7 +2364,7 @@
             {
               "id": 21,
               "iglCall": "TIRO B",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
