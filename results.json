@@ -2323,7 +2323,7 @@
               "id": 15,
               "iglCall": "DEFA",
               "isWin": true,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
@@ -2331,7 +2331,7 @@
               "iglCall": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 17,
