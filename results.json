@@ -2342,7 +2342,7 @@
             },
             {
               "id": 18,
-              "iglCall": "",
+              "iglCall": "DEFAULT MID",
               "isWin": false,
               "fk": false,
               "fd": false
