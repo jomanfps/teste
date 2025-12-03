@@ -2194,9 +2194,9 @@
           "teamName": "SOLID",
           "map": "Split",
           "startingSide": "Attack",
-          "attackOwn": 5,
+          "attackOwn": 6,
           "defenseOwn": 1,
-          "attackEnemy": 7,
+          "attackEnemy": 6,
           "defenseEnemy": 11,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -2294,7 +2294,7 @@
             {
               "id": 11,
               "iglCall": "DEFAULT MID",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
