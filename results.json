@@ -2931,28 +2931,6 @@
       }
     },
     {
-      "id": "d84e4753-fd7d-4caf-aa35-a16c8a28ac23",
-      "name": "a",
-      "createdAt": "2025-12-03T21:07:30.789Z",
-      "scrims": [],
-      "teamConfig": {
-        "ourPlayerNames": [
-          "Player 1",
-          "Player 2",
-          "Player 3",
-          "Player 4",
-          "Player 5"
-        ],
-        "enemyPlayerNames": [
-          "Enemy 1",
-          "Enemy 2",
-          "Enemy 3",
-          "Enemy 4",
-          "Enemy 5"
-        ]
-      }
-    },
-    {
       "id": "ac0bc4c9-10a5-4509-89a5-4bb93934d44a",
       "name": "b",
       "createdAt": "2025-12-03T21:07:32.572Z",
