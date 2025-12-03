@@ -2373,7 +2373,7 @@
               "iglCall": "TIRO B",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 23,
