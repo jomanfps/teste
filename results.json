@@ -2202,7 +2202,7 @@
           "pistolDefenseWon": false,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
-          "bonusAttackWon": false,
+          "bonusAttackWon": true,
           "bonusDefenseWon": false,
           "ourComp": [
             "",
@@ -2244,7 +2244,7 @@
             },
             {
               "id": 4,
-              "iglCall": "",
+              "iglCall": "ANTI-ECO",
               "isWin": false,
               "fk": false,
               "fd": true
