@@ -2194,9 +2194,9 @@
           "teamName": "PECA",
           "map": "Split",
           "startingSide": "Defense",
-          "attackOwn": 2,
+          "attackOwn": 3,
           "defenseOwn": 7,
-          "attackEnemy": 10,
+          "attackEnemy": 9,
           "defenseEnemy": 5,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
@@ -2329,7 +2329,7 @@
             {
               "id": 16,
               "iglCall": "DEFAULT B",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
