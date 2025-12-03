@@ -2195,11 +2195,11 @@
           "map": "Bind",
           "startingSide": "Attack",
           "attackOwn": 5,
-          "defenseOwn": 0,
+          "defenseOwn": 1,
           "attackEnemy": 7,
-          "defenseEnemy": 12,
+          "defenseEnemy": 11,
           "pistolAttackWon": true,
-          "pistolDefenseWon": false,
+          "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
           "bonusAttackWon": false,
@@ -2308,8 +2308,8 @@
             {
               "id": 13,
               "iglCall": "PISTOL BAÑOS",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
