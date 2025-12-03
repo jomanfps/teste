@@ -2275,7 +2275,7 @@
               "iglCall": "ECO",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 9,
