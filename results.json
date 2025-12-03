@@ -2195,9 +2195,9 @@
           "map": "Bind",
           "startingSide": "Attack",
           "attackOwn": 5,
-          "defenseOwn": 2,
+          "defenseOwn": 3,
           "attackEnemy": 7,
-          "defenseEnemy": 10,
+          "defenseEnemy": 9,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -2343,7 +2343,7 @@
             {
               "id": 18,
               "iglCall": "DEFA JARDIN",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
