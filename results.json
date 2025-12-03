@@ -2195,11 +2195,11 @@
           "map": "Split",
           "startingSide": "Attack",
           "attackOwn": 4,
-          "defenseOwn": 0,
+          "defenseOwn": 1,
           "attackEnemy": 8,
-          "defenseEnemy": 12,
+          "defenseEnemy": 11,
           "pistolAttackWon": true,
-          "pistolDefenseWon": false,
+          "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
           "bonusAttackWon": true,
@@ -2300,15 +2300,15 @@
             },
             {
               "id": 12,
-              "iglCall": "",
+              "iglCall": "TIRO B",
               "isWin": true,
               "fk": true,
               "fd": false
             },
             {
               "id": 13,
-              "iglCall": "",
-              "isWin": false,
+              "iglCall": "PISTOL AVANZO MID",
+              "isWin": true,
               "fk": false,
               "fd": false
             },
