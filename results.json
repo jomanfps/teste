@@ -2253,7 +2253,7 @@
               "id": 5,
               "iglCall": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
