@@ -2293,7 +2293,7 @@
             },
             {
               "id": 11,
-              "iglCall": "",
+              "iglCall": "ULTI VIPER CORTA",
               "isWin": true,
               "fk": true,
               "fd": false
@@ -2302,7 +2302,7 @@
               "id": 12,
               "iglCall": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
