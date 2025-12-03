@@ -2206,9 +2206,9 @@
           "bonusDefenseWon": false,
           "ourComp": [
             "Waylay",
-            "",
-            "",
-            "",
+            "Fade",
+            "Yoru",
+            "Veto",
             ""
           ],
           "enemyComp": [
