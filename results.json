@@ -2293,16 +2293,16 @@
             },
             {
               "id": 11,
-              "iglCall": "",
-              "isWin": true,
-              "fk": true,
-              "fd": false
+              "iglCall": "DEFAULT MID",
+              "isWin": false,
+              "fk": false,
+              "fd": true
             },
             {
               "id": 12,
               "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
