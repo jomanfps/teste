@@ -2195,9 +2195,9 @@
           "map": "Split",
           "startingSide": "Attack",
           "attackOwn": 6,
-          "defenseOwn": 5,
+          "defenseOwn": 6,
           "attackEnemy": 6,
-          "defenseEnemy": 7,
+          "defenseEnemy": 6,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -2364,8 +2364,8 @@
             {
               "id": 21,
               "iglCall": "DEFAULT TIRO B",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
