@@ -2195,9 +2195,9 @@
           "map": "Bind",
           "startingSide": "Attack",
           "attackOwn": 6,
-          "defenseOwn": 0,
+          "defenseOwn": 1,
           "attackEnemy": 6,
-          "defenseEnemy": 12,
+          "defenseEnemy": 11,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": true,
@@ -2322,8 +2322,8 @@
             {
               "id": 15,
               "iglCall": "ANTIECO BAÑOS",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
