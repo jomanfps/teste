@@ -2295,7 +2295,7 @@
               "id": 11,
               "iglCall": "ECO DOMINIO HOOKA",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
