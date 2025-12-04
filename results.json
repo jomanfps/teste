@@ -2195,11 +2195,11 @@
           "map": "Split",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 0,
+          "defenseOwn": 1,
           "attackEnemy": 12,
-          "defenseEnemy": 12,
+          "defenseEnemy": 11,
           "pistolAttackWon": false,
-          "pistolDefenseWon": false,
+          "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
           "bonusAttackWon": false,
@@ -2224,7 +2224,7 @@
             {
               "id": 1,
               "iglCall": "PISTOL AVANZO MID",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
