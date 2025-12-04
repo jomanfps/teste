@@ -2344,7 +2344,7 @@
               "id": 18,
               "iglCall": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
