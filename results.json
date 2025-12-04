@@ -2223,9 +2223,9 @@
           "rounds": [
             {
               "id": 1,
-              "iglCall": "",
+              "iglCall": "PISTOL BAÑO",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
