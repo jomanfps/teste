@@ -2265,17 +2265,17 @@
             },
             {
               "id": 7,
-              "iglCall": "",
+              "iglCall": "DEFAULT",
               "isWin": false,
               "fk": true,
               "fd": false
             },
             {
               "id": 8,
-              "iglCall": "",
+              "iglCall": "ECO",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 9,
