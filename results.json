@@ -2194,9 +2194,9 @@
           "teamName": "2GAME",
           "map": "Split",
           "startingSide": "Defense",
-          "attackOwn": 3,
+          "attackOwn": 4,
           "defenseOwn": 3,
-          "attackEnemy": 9,
+          "attackEnemy": 8,
           "defenseEnemy": 9,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -2357,7 +2357,7 @@
             {
               "id": 20,
               "iglCall": "TIRO B",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
