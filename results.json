@@ -2330,7 +2330,7 @@
               "id": 16,
               "iglCall": "BAIT CORTA",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
