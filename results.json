@@ -2194,9 +2194,9 @@
           "teamName": "MIBR AC",
           "map": "Bind",
           "startingSide": "Attack",
-          "attackOwn": 5,
+          "attackOwn": 6,
           "defenseOwn": 0,
-          "attackEnemy": 7,
+          "attackEnemy": 6,
           "defenseEnemy": 12,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -2294,9 +2294,9 @@
             {
               "id": 11,
               "iglCall": "ECO DOMINIO HOOKA",
-              "isWin": false,
-              "fk": true,
-              "fd": false
+              "isWin": true,
+              "fk": false,
+              "fd": true
             },
             {
               "id": 12,
