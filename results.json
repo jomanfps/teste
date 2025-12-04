@@ -2286,7 +2286,7 @@
             },
             {
               "id": 10,
-              "iglCall": "",
+              "iglCall": "DEFAULT BAÑO",
               "isWin": false,
               "fk": false,
               "fd": true
