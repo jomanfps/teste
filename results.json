@@ -2194,11 +2194,11 @@
           "teamName": "2GAME",
           "map": "Split",
           "startingSide": "Defense",
-          "attackOwn": 0,
+          "attackOwn": 1,
           "defenseOwn": 3,
-          "attackEnemy": 12,
+          "attackEnemy": 11,
           "defenseEnemy": 9,
-          "pistolAttackWon": false,
+          "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": true,
@@ -2308,8 +2308,8 @@
             {
               "id": 13,
               "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
