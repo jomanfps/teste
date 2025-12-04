@@ -2384,9 +2384,9 @@
             },
             {
               "id": 24,
-              "iglCall": "",
+              "iglCall": "DEFA RAMP",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             }
           ],
