@@ -2300,9 +2300,9 @@
             },
             {
               "id": 12,
-              "iglCall": "",
+              "iglCall": "EXEC CORTA",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
