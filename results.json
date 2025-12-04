@@ -2260,7 +2260,7 @@
               "id": 6,
               "iglCall": "DEFAULT BAÑO",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
