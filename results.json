@@ -2194,9 +2194,9 @@
           "teamName": "2GAME",
           "map": "Split",
           "startingSide": "Defense",
-          "attackOwn": 2,
+          "attackOwn": 3,
           "defenseOwn": 3,
-          "attackEnemy": 10,
+          "attackEnemy": 9,
           "defenseEnemy": 9,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -2350,7 +2350,7 @@
             {
               "id": 19,
               "iglCall": "DEFA RAMPA",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
