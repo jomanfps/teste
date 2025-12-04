@@ -2205,11 +2205,11 @@
           "bonusAttackWon": false,
           "bonusDefenseWon": false,
           "ourComp": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Raze",
+            "Fade",
+            "Yoru",
+            "Viper",
+            "Breach"
           ],
           "enemyComp": [
             "",
