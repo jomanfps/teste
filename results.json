@@ -2351,7 +2351,7 @@
               "id": 19,
               "iglCall": "ECO CON AWP",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
