@@ -2187,6 +2187,248 @@
       "createdAt": "2025-12-03T16:51:01.322Z",
       "scrims": [
         {
+          "id": "41925421-bf83-4630-a968-7247bb26dd7d",
+          "date": "2025-12-04",
+          "region": "NA",
+          "tier": "Tier 2",
+          "teamName": "",
+          "map": "Ascent",
+          "startingSide": "Attack",
+          "attackOwn": 0,
+          "defenseOwn": 0,
+          "attackEnemy": 0,
+          "defenseEnemy": 0,
+          "pistolAttackWon": false,
+          "pistolDefenseWon": false,
+          "antiEcoAttackWon": false,
+          "antiEcoDefenseWon": false,
+          "bonusAttackWon": false,
+          "bonusDefenseWon": false,
+          "ourComp": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "enemyComp": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vodLink": "",
+          "reviewLink": "",
+          "rounds": [
+            {
+              "id": 1,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 2,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 3,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 4,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 5,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 6,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 7,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 8,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 9,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 10,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 11,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 12,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 13,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 14,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 15,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 16,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 17,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 18,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 19,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 20,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 21,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 22,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 23,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 24,
+              "iglCall": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            }
+          ],
+          "playerStats": [
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            }
+          ]
+        },
+        {
           "id": "d8ac26b4-a4c1-442c-a9d4-aec40b694525",
           "date": "2025-12-03",
           "region": "NA",
