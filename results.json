@@ -2194,9 +2194,9 @@
           "teamName": "2GAME",
           "map": "Split",
           "startingSide": "Defense",
-          "attackOwn": 5,
+          "attackOwn": 6,
           "defenseOwn": 3,
-          "attackEnemy": 7,
+          "attackEnemy": 6,
           "defenseEnemy": 9,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -2385,7 +2385,7 @@
             {
               "id": 24,
               "iglCall": "DEFA RAMP",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             }
