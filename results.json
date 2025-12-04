@@ -2363,7 +2363,7 @@
             },
             {
               "id": 21,
-              "iglCall": "",
+              "iglCall": "ECO",
               "isWin": false,
               "fk": true,
               "fd": false
