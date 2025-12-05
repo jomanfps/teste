@@ -3422,9 +3422,9 @@
         {
           "id": "05b19377-22bf-48a4-aa64-5e0ef1536014",
           "date": "2025-12-05",
-          "region": "NA",
-          "tier": "Tier 2",
-          "teamName": "",
+          "region": "BR",
+          "tier": "Tier 1",
+          "teamName": "LOUD",
           "map": "Haven",
           "startingSide": "Attack",
           "attackOwn": 0,
@@ -3664,7 +3664,7 @@
         {
           "id": "ecfeed65-8f09-4f57-8a23-5d0f0e5b6a9f",
           "date": "2025-12-05",
-          "region": "NA",
+          "region": "BR",
           "tier": "Tier 2",
           "teamName": "ARTIC TIGER",
           "map": "Haven",
