@@ -3610,9 +3610,9 @@
             },
             {
               "id": 23,
-              "iglCall": "",
+              "iglCall": "AVANZO MID",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
