@@ -3540,16 +3540,16 @@
             },
             {
               "id": 13,
-              "iglCall": "PISTOL ",
+              "iglCall": "PISTOL LINK A",
               "isWin": true,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
               "id": 14,
-              "iglCall": "",
+              "iglCall": "ANTIECO A",
               "isWin": true,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
