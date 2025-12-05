@@ -3554,7 +3554,7 @@
             },
             {
               "id": 15,
-              "iglCall": "BONUS",
+              "iglCall": "BONUS A",
               "isWin": true,
               "fk": true,
               "fd": false
