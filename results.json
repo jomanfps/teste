@@ -3428,9 +3428,9 @@
           "map": "Ascent",
           "startingSide": "Attack",
           "attackOwn": 10,
-          "defenseOwn": 5,
+          "defenseOwn": 6,
           "attackEnemy": 2,
-          "defenseEnemy": 7,
+          "defenseEnemy": 6,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": true,
@@ -3596,10 +3596,10 @@
             },
             {
               "id": 21,
-              "iglCall": "",
-              "isWin": false,
+              "iglCall": "DEFAULT",
+              "isWin": true,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 22,
