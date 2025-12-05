@@ -3428,9 +3428,9 @@
           "map": "Haven",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 1,
+          "defenseOwn": 2,
           "attackEnemy": 12,
-          "defenseEnemy": 11,
+          "defenseEnemy": 10,
           "pistolAttackWon": false,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": false,
@@ -3478,9 +3478,9 @@
             {
               "id": 4,
               "iglCall": "",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 5,
