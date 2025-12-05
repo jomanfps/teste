@@ -3556,7 +3556,7 @@
               "id": 15,
               "iglCall": "BONUS",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
