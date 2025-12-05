@@ -3542,8 +3542,8 @@
               "id": 13,
               "iglCall": "",
               "isWin": true,
-              "fk": false,
-              "fd": true
+              "fk": true,
+              "fd": false
             },
             {
               "id": 14,
