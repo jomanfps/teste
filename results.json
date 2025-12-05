@@ -3428,9 +3428,9 @@
           "map": "Haven",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 3,
+          "defenseOwn": 4,
           "attackEnemy": 12,
-          "defenseEnemy": 9,
+          "defenseEnemy": 8,
           "pistolAttackWon": false,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": false,
@@ -3506,7 +3506,7 @@
             {
               "id": 8,
               "iglCall": "DOMINIO A",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
