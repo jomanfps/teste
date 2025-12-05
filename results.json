@@ -3427,9 +3427,9 @@
           "teamName": "LOST PUPPIES",
           "map": "Haven",
           "startingSide": "Defense",
-          "attackOwn": 3,
+          "attackOwn": 5,
           "defenseOwn": 7,
-          "attackEnemy": 9,
+          "attackEnemy": 7,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3561,16 +3561,16 @@
             },
             {
               "id": 16,
-              "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "iglCall": "CONTACTO B",
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
               "id": 17,
-              "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "iglCall": "FAKE DEFA A",
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
