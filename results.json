@@ -3428,9 +3428,9 @@
           "map": "Ascent",
           "startingSide": "Attack",
           "attackOwn": 10,
-          "defenseOwn": 6,
+          "defenseOwn": 7,
           "attackEnemy": 2,
-          "defenseEnemy": 6,
+          "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": true,
@@ -3611,7 +3611,7 @@
             {
               "id": 23,
               "iglCall": "AVANZO MID",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
