@@ -3436,7 +3436,7 @@
           "antiEcoAttackWon": true,
           "antiEcoDefenseWon": true,
           "bonusAttackWon": true,
-          "bonusDefenseWon": true,
+          "bonusDefenseWon": false,
           "ourComp": [
             "Yoru",
             "Killjoy",
@@ -3555,7 +3555,7 @@
             {
               "id": 15,
               "iglCall": "TIRO B",
-              "isWin": true,
+              "isWin": false,
               "fk": false,
               "fd": true
             },
@@ -3568,9 +3568,9 @@
             },
             {
               "id": 17,
-              "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "iglCall": "TIRO A",
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
