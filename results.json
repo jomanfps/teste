@@ -3427,9 +3427,9 @@
           "teamName": "LOUD",
           "map": "Haven",
           "startingSide": "Defense",
-          "attackOwn": 2,
+          "attackOwn": 3,
           "defenseOwn": 5,
-          "attackEnemy": 10,
+          "attackEnemy": 9,
           "defenseEnemy": 7,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -3562,8 +3562,8 @@
             {
               "id": 16,
               "iglCall": "FAKE DEFAULT A",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
