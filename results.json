@@ -3428,13 +3428,13 @@
           "map": "Ascent",
           "startingSide": "Attack",
           "attackOwn": 10,
-          "defenseOwn": 1,
+          "defenseOwn": 2,
           "attackEnemy": 2,
-          "defenseEnemy": 11,
+          "defenseEnemy": 10,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": true,
-          "antiEcoDefenseWon": false,
+          "antiEcoDefenseWon": true,
           "bonusAttackWon": true,
           "bonusDefenseWon": false,
           "ourComp": [
@@ -3548,8 +3548,8 @@
             {
               "id": 14,
               "iglCall": "ANTIECO TIRO CORTA",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
