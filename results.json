@@ -3514,7 +3514,7 @@
               "id": 9,
               "iglCall": "ULTI VIPER C",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
