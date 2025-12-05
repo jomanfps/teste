@@ -3428,9 +3428,9 @@
           "map": "Ascent",
           "startingSide": "Attack",
           "attackOwn": 10,
-          "defenseOwn": 5,
+          "defenseOwn": 4,
           "attackEnemy": 2,
-          "defenseEnemy": 7,
+          "defenseEnemy": 8,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": true,
@@ -3568,16 +3568,16 @@
             },
             {
               "id": 17,
-              "iglCall": "TIRO A",
-              "isWin": true,
+              "iglCall": "KJ YORU A",
+              "isWin": false,
               "fk": true,
               "fd": false
             },
             {
               "id": 18,
-              "iglCall": "KJ YORU A",
+              "iglCall": "",
               "isWin": false,
-              "fk": true,
+              "fk": false,
               "fd": false
             },
             {
