@@ -3428,9 +3428,9 @@
           "map": "Haven",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 4,
+          "defenseOwn": 5,
           "attackEnemy": 12,
-          "defenseEnemy": 8,
+          "defenseEnemy": 7,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -3492,7 +3492,7 @@
             {
               "id": 6,
               "iglCall": "ULTI VIPER C",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
