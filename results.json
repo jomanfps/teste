@@ -3428,11 +3428,11 @@
           "map": "Ascent",
           "startingSide": "Attack",
           "attackOwn": 10,
-          "defenseOwn": 0,
+          "defenseOwn": 1,
           "attackEnemy": 2,
-          "defenseEnemy": 12,
+          "defenseEnemy": 11,
           "pistolAttackWon": true,
-          "pistolDefenseWon": false,
+          "pistolDefenseWon": true,
           "antiEcoAttackWon": true,
           "antiEcoDefenseWon": false,
           "bonusAttackWon": true,
@@ -3541,8 +3541,8 @@
             {
               "id": 13,
               "iglCall": "PISTOL CORTA",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
