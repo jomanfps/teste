@@ -3605,7 +3605,7 @@
               "id": 22,
               "iglCall": "ULTI KJ RATO",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
