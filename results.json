@@ -3500,7 +3500,7 @@
               "id": 7,
               "iglCall": "FAKE DEFAULT A",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
