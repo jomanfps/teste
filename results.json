@@ -3479,7 +3479,7 @@
               "id": 4,
               "iglCall": "TIRO C",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
