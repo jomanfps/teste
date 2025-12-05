@@ -3427,15 +3427,15 @@
           "teamName": "LOST PUPPIES",
           "map": "Haven",
           "startingSide": "Defense",
-          "attackOwn": 2,
+          "attackOwn": 3,
           "defenseOwn": 7,
-          "attackEnemy": 10,
+          "attackEnemy": 9,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": true,
           "antiEcoDefenseWon": false,
-          "bonusAttackWon": false,
+          "bonusAttackWon": true,
           "bonusDefenseWon": false,
           "ourComp": [
             "Yoru",
@@ -3555,7 +3555,7 @@
             {
               "id": 15,
               "iglCall": "BONUS",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
