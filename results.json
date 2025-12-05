@@ -3428,9 +3428,9 @@
           "map": "Ascent",
           "startingSide": "Attack",
           "attackOwn": 10,
-          "defenseOwn": 4,
+          "defenseOwn": 5,
           "attackEnemy": 2,
-          "defenseEnemy": 8,
+          "defenseEnemy": 7,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": true,
@@ -3569,7 +3569,7 @@
             {
               "id": 17,
               "iglCall": "KJ YORU A",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
