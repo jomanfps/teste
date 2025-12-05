@@ -3470,7 +3470,7 @@
             },
             {
               "id": 3,
-              "iglCall": "",
+              "iglCall": "BONUS",
               "isWin": false,
               "fk": false,
               "fd": false
