@@ -3577,7 +3577,7 @@
               "id": 18,
               "iglCall": "KJ YORU A",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
