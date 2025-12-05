@@ -3514,7 +3514,7 @@
               "id": 9,
               "iglCall": "DEFAULT DOBLES",
               "isWin": true,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
