@@ -3505,10 +3505,10 @@
             },
             {
               "id": 8,
-              "iglCall": "",
+              "iglCall": "DEFAULT A",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 9,
