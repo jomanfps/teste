@@ -3427,11 +3427,11 @@
           "teamName": "",
           "map": "Ascent",
           "startingSide": "Attack",
-          "attackOwn": 0,
+          "attackOwn": 1,
           "defenseOwn": 0,
-          "attackEnemy": 0,
-          "defenseEnemy": 0,
-          "pistolAttackWon": false,
+          "attackEnemy": 11,
+          "defenseEnemy": 12,
+          "pistolAttackWon": true,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
@@ -3457,8 +3457,8 @@
             {
               "id": 1,
               "iglCall": "PISTOL LINK A",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
