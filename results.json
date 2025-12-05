@@ -3465,7 +3465,7 @@
               "id": 2,
               "iglCall": "ANTIECO",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
