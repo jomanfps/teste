@@ -3428,9 +3428,9 @@
           "map": "Haven",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 2,
+          "defenseOwn": 3,
           "attackEnemy": 12,
-          "defenseEnemy": 10,
+          "defenseEnemy": 9,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -3478,7 +3478,7 @@
             {
               "id": 4,
               "iglCall": "TIRO C",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
