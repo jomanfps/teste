@@ -3514,8 +3514,8 @@
               "id": 9,
               "iglCall": "BATIDA A",
               "isWin": false,
-              "fk": true,
-              "fd": false
+              "fk": false,
+              "fd": true
             },
             {
               "id": 10,
