@@ -3428,15 +3428,15 @@
           "map": "Ascent",
           "startingSide": "Attack",
           "attackOwn": 10,
-          "defenseOwn": 4,
+          "defenseOwn": 5,
           "attackEnemy": 2,
-          "defenseEnemy": 8,
+          "defenseEnemy": 7,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": true,
           "antiEcoDefenseWon": true,
           "bonusAttackWon": true,
-          "bonusDefenseWon": false,
+          "bonusDefenseWon": true,
           "ourComp": [
             "Yoru",
             "Killjoy",
@@ -3555,7 +3555,7 @@
             {
               "id": 15,
               "iglCall": "TIRO B",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
