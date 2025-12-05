@@ -3596,10 +3596,10 @@
             },
             {
               "id": 21,
-              "iglCall": "",
+              "iglCall": "PISTOL LINK A",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 22,
