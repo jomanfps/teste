@@ -3603,9 +3603,9 @@
             },
             {
               "id": 22,
-              "iglCall": "",
+              "iglCall": "EXEC B",
               "isWin": true,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
