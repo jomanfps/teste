@@ -3428,13 +3428,13 @@
           "map": "Haven",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 1,
+          "defenseOwn": 2,
           "attackEnemy": 12,
-          "defenseEnemy": 11,
+          "defenseEnemy": 10,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
-          "antiEcoDefenseWon": false,
+          "antiEcoDefenseWon": true,
           "bonusAttackWon": false,
           "bonusDefenseWon": false,
           "ourComp": [
@@ -3464,7 +3464,7 @@
             {
               "id": 2,
               "iglCall": "ANTIECO",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
