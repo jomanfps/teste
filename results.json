@@ -3456,10 +3456,10 @@
           "rounds": [
             {
               "id": 1,
-              "iglCall": "",
+              "iglCall": "PISTOL CORTA",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 2,
