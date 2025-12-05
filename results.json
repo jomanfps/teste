@@ -3427,15 +3427,15 @@
           "teamName": "",
           "map": "Ascent",
           "startingSide": "Attack",
-          "attackOwn": 2,
+          "attackOwn": 3,
           "defenseOwn": 0,
-          "attackEnemy": 10,
+          "attackEnemy": 9,
           "defenseEnemy": 12,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": true,
           "antiEcoDefenseWon": false,
-          "bonusAttackWon": false,
+          "bonusAttackWon": true,
           "bonusDefenseWon": false,
           "ourComp": [
             "Yoru",
@@ -3470,9 +3470,9 @@
             },
             {
               "id": 3,
-              "iglCall": "",
-              "isWin": false,
-              "fk": false,
+              "iglCall": "DEFAULT A",
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
