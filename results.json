@@ -3470,7 +3470,7 @@
             },
             {
               "id": 3,
-              "iglCall": "",
+              "iglCall": "TIRO A",
               "isWin": true,
               "fk": true,
               "fd": false
