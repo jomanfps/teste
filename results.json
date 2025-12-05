@@ -3519,7 +3519,7 @@
             },
             {
               "id": 10,
-              "iglCall": "TIRO ",
+              "iglCall": "TIRO C",
               "isWin": false,
               "fk": false,
               "fd": true
