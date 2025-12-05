@@ -3582,16 +3582,16 @@
             },
             {
               "id": 19,
-              "iglCall": "",
+              "iglCall": "RETAKE A",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 20,
               "iglCall": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
