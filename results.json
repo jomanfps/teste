@@ -3427,9 +3427,9 @@
           "teamName": "ARTIC TIGER",
           "map": "Ascent",
           "startingSide": "Attack",
-          "attackOwn": 8,
+          "attackOwn": 9,
           "defenseOwn": 0,
-          "attackEnemy": 4,
+          "attackEnemy": 3,
           "defenseEnemy": 12,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3520,7 +3520,7 @@
             {
               "id": 10,
               "iglCall": "MARCAR",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             },
