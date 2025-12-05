@@ -3426,7 +3426,7 @@
           "tier": "Tier 2",
           "teamName": "LOST PUPPIES",
           "map": "Haven",
-          "startingSide": "Attack",
+          "startingSide": "Defense",
           "attackOwn": 0,
           "defenseOwn": 0,
           "attackEnemy": 0,
