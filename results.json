@@ -2179,7 +2179,8 @@
           "Enemy 4",
           "Enemy 5"
         ]
-      }
+      },
+      "archived": true
     },
     {
       "id": "038e3e61-fd49-4685-8c5a-5314973a5a6f",
@@ -3412,7 +3413,8 @@
           "Enemy 4",
           "Enemy 5"
         ]
-      }
+      },
+      "archived": true
     },
     {
       "id": "5e6e5438-f26c-419a-b50d-ea39ea80e2ac",
