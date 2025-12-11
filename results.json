@@ -3458,9 +3458,9 @@
           "rounds": [
             {
               "id": 1,
-              "iglCall": "",
+              "iglCall": "PISTOL NAVI",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
