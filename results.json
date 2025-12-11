@@ -3461,7 +3461,8 @@
               "iglCall": "PISTOL CORTA",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "note": "tenemos que hacer el etc"
             },
             {
               "id": 2,
