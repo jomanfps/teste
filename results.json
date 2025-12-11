@@ -3460,8 +3460,8 @@
               "id": 1,
               "iglCall": "PISTOL CORTA",
               "isWin": true,
-              "fk": false,
-              "fd": true
+              "fk": true,
+              "fd": false
             },
             {
               "id": 2,
