@@ -3631,10 +3631,10 @@
               "kills": 24,
               "deaths": 17,
               "assists": 7,
-              "fk": 7
+              "fk": 193
             },
             {
-              "acs": 193,
+              "acs": null,
               "kills": 14,
               "deaths": 15,
               "assists": 8,
