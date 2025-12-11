@@ -3430,11 +3430,11 @@
           "map": "Haven",
           "startingSide": "Defense",
           "attackOwn": 7,
-          "defenseOwn": 8,
+          "defenseOwn": 7,
           "attackEnemy": 5,
-          "defenseEnemy": 4,
+          "defenseEnemy": 5,
           "pistolAttackWon": true,
-          "pistolDefenseWon": true,
+          "pistolDefenseWon": false,
           "antiEcoAttackWon": true,
           "antiEcoDefenseWon": false,
           "bonusAttackWon": true,
@@ -3459,7 +3459,7 @@
             {
               "id": 1,
               "iglCall": "PISTOL CORTA",
-              "isWin": true,
+              "isWin": false,
               "fk": true,
               "fd": false
             },
