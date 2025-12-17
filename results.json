@@ -3562,8 +3562,8 @@
             },
             {
               "id": 14,
-              "iglCall": "",
-              "note": "",
+              "iglCall": "ECO",
+              "note": "Nagz podia mapear los pj",
               "isWin": false,
               "fk": false,
               "fd": false
