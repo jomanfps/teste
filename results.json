@@ -3539,7 +3539,7 @@
             {
               "id": 11,
               "iglCall": "DEFAULT HOOKA",
-              "note": "",
+              "note": "Podemos revisar si tocar mas el B antes",
               "isWin": false,
               "fk": true,
               "fd": false
