@@ -3622,7 +3622,7 @@
               "note": "Faltó baitear skill",
               "isWin": true,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 22,
