@@ -3530,11 +3530,11 @@
             },
             {
               "id": 10,
-              "iglCall": "",
+              "iglCall": "DEFAULT BAÑOS",
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 11,
