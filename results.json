@@ -3429,9 +3429,9 @@
           "teamName": "ELEVATE AC",
           "map": "Bind",
           "startingSide": "Defense",
-          "attackOwn": 9,
+          "attackOwn": 10,
           "defenseOwn": 7,
-          "attackEnemy": 3,
+          "attackEnemy": 2,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3635,8 +3635,8 @@
             {
               "id": 23,
               "iglCall": "DEFAULT JARDIN",
-              "note": "",
-              "isWin": false,
+              "note": "NAGZ resolvio",
+              "isWin": true,
               "fk": false,
               "fd": true
             },
