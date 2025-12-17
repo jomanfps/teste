@@ -3283,7 +3283,7 @@
             },
             {
               "id": 14,
-              "iglCall": "ANTI-ECO",
+              "iglCall": "ANTIECO",
               "isWin": true,
               "fk": true,
               "fd": false
