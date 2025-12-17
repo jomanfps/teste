@@ -3555,10 +3555,10 @@
             {
               "id": 13,
               "iglCall": "PISTOL BAÑOS",
-              "note": "",
+              "note": "Jugamos al mismo tiempo y antes en corta",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 14,
