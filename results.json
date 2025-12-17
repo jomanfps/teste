@@ -3430,9 +3430,9 @@
           "map": "Bind",
           "startingSide": "Attack",
           "attackOwn": 9,
-          "defenseOwn": 3,
+          "defenseOwn": 4,
           "attackEnemy": 3,
-          "defenseEnemy": 9,
+          "defenseEnemy": 8,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": true,
@@ -3644,7 +3644,7 @@
               "id": 24,
               "iglCall": "TIRO CORTA",
               "note": "",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": true
             }
