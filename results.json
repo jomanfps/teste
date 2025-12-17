@@ -3637,8 +3637,8 @@
               "iglCall": "DEFAULT JARDIN",
               "note": "",
               "isWin": false,
-              "fk": false,
-              "fd": true
+              "fk": true,
+              "fd": false
             },
             {
               "id": 24,
