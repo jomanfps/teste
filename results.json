@@ -653,14 +653,14 @@
             },
             {
               "id": 20,
-              "iglCall": "DEFAULT - TIRO B",
+              "iglCall": "DEFAULT TIRO B",
               "isWin": true,
               "fk": false,
               "fd": true
             },
             {
               "id": 21,
-              "iglCall": "DEFAULT - TIRO A",
+              "iglCall": "DEFAULT TIRO A",
               "isWin": true,
               "fk": true,
               "fd": false
