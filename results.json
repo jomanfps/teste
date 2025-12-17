@@ -3687,7 +3687,7 @@
               "fk": 1
             }
           ],
-          "includeInAnalytics": false
+          "includeInAnalytics": true
         },
         {
           "id": "0e14992c-c5ed-44b9-a73a-5de66595fc92",
