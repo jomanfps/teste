@@ -3571,10 +3571,10 @@
             {
               "id": 15,
               "iglCall": "BONUS DRX",
-              "note": "",
+              "note": "Nadie marcando aladin",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 16,
