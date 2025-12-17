@@ -3430,9 +3430,9 @@
           "map": "Bind",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 0,
-          "attackEnemy": 0,
-          "defenseEnemy": 0,
+          "defenseOwn": 1,
+          "attackEnemy": 12,
+          "defenseEnemy": 11,
           "pistolAttackWon": false,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": false,
@@ -3506,10 +3506,10 @@
             },
             {
               "id": 7,
-              "iglCall": "",
+              "iglCall": "TIRO BAÑOS",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
