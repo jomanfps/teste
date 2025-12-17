@@ -3428,7 +3428,7 @@
           "tier": "Academy",
           "teamName": "ELEVATE AC",
           "map": "Bind",
-          "startingSide": "Attack",
+          "startingSide": "Defense",
           "attackOwn": 7,
           "defenseOwn": 0,
           "attackEnemy": 5,
