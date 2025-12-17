@@ -3595,10 +3595,10 @@
             {
               "id": 18,
               "iglCall": "TIRO JARDIN",
-              "note": "",
+              "note": "PHC muere en aladin",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 19,
