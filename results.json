@@ -3646,7 +3646,7 @@
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             }
           ],
           "playerStats": [
