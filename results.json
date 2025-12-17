@@ -3499,7 +3499,7 @@
             {
               "id": 6,
               "iglCall": "DEFAULT BAÑOS",
-              "note": "Matan a tkzin primero",
+              "note": "Matan a tkzin primero, se escapan los trades",
               "isWin": false,
               "fk": false,
               "fd": true
