@@ -3429,9 +3429,9 @@
           "teamName": "ELEVATE AC",
           "map": "Bind",
           "startingSide": "Defense",
-          "attackOwn": 3,
+          "attackOwn": 4,
           "defenseOwn": 7,
-          "attackEnemy": 9,
+          "attackEnemy": 8,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3579,8 +3579,8 @@
             {
               "id": 16,
               "iglCall": "DEFAULT BAÑOS",
-              "note": "",
-              "isWin": false,
+              "note": "Revisar perro",
+              "isWin": true,
               "fk": true,
               "fd": false
             },
