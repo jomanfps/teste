@@ -3422,6 +3422,272 @@
       "createdAt": "2025-12-04T20:57:22.191Z",
       "scrims": [
         {
+          "id": "2d8b7c54-c83d-4f95-b1d1-96efb8cb90b3",
+          "date": "2025-12-17",
+          "region": "NA",
+          "tier": "Tier 2",
+          "teamName": "",
+          "map": "Bind",
+          "startingSide": "Attack",
+          "attackOwn": 0,
+          "defenseOwn": 0,
+          "attackEnemy": 0,
+          "defenseEnemy": 0,
+          "pistolAttackWon": false,
+          "pistolDefenseWon": false,
+          "antiEcoAttackWon": false,
+          "antiEcoDefenseWon": false,
+          "bonusAttackWon": false,
+          "bonusDefenseWon": false,
+          "ourComp": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "enemyComp": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "vodLink": "enc_1b1706191e08473344512d40406b0a0a1601070748450616405303350f1b1f08084634290f021f1846223602391d401e2d031c4c02440106575a295e1c131306",
+          "reviewLink": "",
+          "rounds": [
+            {
+              "id": 1,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 2,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 3,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 4,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 5,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 6,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 7,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 8,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 9,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 10,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 11,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 12,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 13,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 14,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 15,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 16,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 17,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 18,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 19,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 20,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 21,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 22,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 23,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            },
+            {
+              "id": 24,
+              "iglCall": "",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": false
+            }
+          ],
+          "playerStats": [
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            },
+            {
+              "acs": 0,
+              "kills": 0,
+              "deaths": 0,
+              "assists": 0,
+              "fk": 0
+            }
+          ]
+        },
+        {
           "id": "58cf1386-fca2-4642-9bb1-fd858b3f2e58",
           "date": "2025-12-05",
           "region": "BR",
