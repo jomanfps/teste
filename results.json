@@ -3475,10 +3475,10 @@
             {
               "id": 3,
               "iglCall": "BONUS DRX",
-              "note": "",
+              "note": "Comimos micro",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 4,
