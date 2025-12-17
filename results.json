@@ -3428,7 +3428,7 @@
           "tier": "Tier 1",
           "teamName": "KRU",
           "map": "Bind",
-          "startingSide": "Attack",
+          "startingSide": "Defense",
           "attackOwn": 0,
           "defenseOwn": 0,
           "attackEnemy": 0,
@@ -3458,7 +3458,7 @@
           "rounds": [
             {
               "id": 1,
-              "iglCall": "",
+              "iglCall": "PISTOL HOOKA",
               "note": "",
               "isWin": false,
               "fk": false,
