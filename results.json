@@ -3533,7 +3533,7 @@
               "iglCall": "",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
