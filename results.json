@@ -3048,7 +3048,7 @@
             },
             {
               "id": 15,
-              "iglCall": "ANTI-ECO",
+              "iglCall": "ANTIECO",
               "isWin": true,
               "fk": true,
               "fd": false
