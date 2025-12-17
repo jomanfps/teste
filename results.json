@@ -3562,10 +3562,10 @@
             },
             {
               "id": 14,
-              "iglCall": "",
+              "iglCall": "ECO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
