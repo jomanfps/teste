@@ -3611,10 +3611,10 @@
             {
               "id": 20,
               "iglCall": "DEFAULT BAÑOS",
-              "note": "",
+              "note": "Ya tenemos baños dominado y mta sigue buscando, se muere por eso",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 21,
