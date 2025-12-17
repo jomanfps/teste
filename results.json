@@ -2715,7 +2715,7 @@
             },
             {
               "id": 2,
-              "iglCall": "ANTI-ECO",
+              "iglCall": "ANTIECO",
               "isWin": false,
               "fk": true,
               "fd": false
@@ -2729,7 +2729,7 @@
             },
             {
               "id": 4,
-              "iglCall": "ANTI-ECO",
+              "iglCall": "ANTIECO",
               "isWin": false,
               "fk": false,
               "fd": true
@@ -2799,7 +2799,7 @@
             },
             {
               "id": 14,
-              "iglCall": "ANTI-ECO",
+              "iglCall": "ANTIECO",
               "isWin": false,
               "fk": false,
               "fd": true
