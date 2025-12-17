@@ -3595,7 +3595,7 @@
             {
               "id": 18,
               "iglCall": "DEFAULT BAÑOS",
-              "note": "",
+              "note": "Redominaron",
               "isWin": false,
               "fk": true,
               "fd": false
@@ -3603,7 +3603,7 @@
             {
               "id": 19,
               "iglCall": "EXEC CORTA",
-              "note": "",
+              "note": "Revisar exec",
               "isWin": false,
               "fk": false,
               "fd": true
