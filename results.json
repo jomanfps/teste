@@ -3429,9 +3429,9 @@
           "teamName": "",
           "map": "Bind",
           "startingSide": "Attack",
-          "attackOwn": 3,
+          "attackOwn": 4,
           "defenseOwn": 0,
-          "attackEnemy": 9,
+          "attackEnemy": 8,
           "defenseEnemy": 12,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3508,8 +3508,8 @@
               "id": 7,
               "iglCall": "FAKE DEFAULT BAÑOS",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
