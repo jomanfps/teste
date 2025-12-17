@@ -3482,11 +3482,11 @@
             },
             {
               "id": 4,
-              "iglCall": "",
+              "iglCall": "TIRO JARDIN",
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 5,
