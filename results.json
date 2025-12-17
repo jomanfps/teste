@@ -562,7 +562,7 @@
             },
             {
               "id": 7,
-              "iglCall": "DEFAULT B - ANTIECO",
+              "iglCall": "ANTIECO DEFAULT B",
               "isWin": false,
               "fk": false,
               "fd": true
@@ -726,7 +726,8 @@
           ],
           "bonusDefenseWon": true,
           "attackEnemy": 9,
-          "defenseEnemy": 2
+          "defenseEnemy": 2,
+          "bonusAttackWon": false
         },
         {
           "date": "2025-11-25",
