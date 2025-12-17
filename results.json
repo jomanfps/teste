@@ -3429,9 +3429,9 @@
           "teamName": "ELEVATE AC",
           "map": "Bind",
           "startingSide": "Attack",
-          "attackOwn": 2,
+          "attackOwn": 3,
           "defenseOwn": 0,
-          "attackEnemy": 10,
+          "attackEnemy": 9,
           "defenseEnemy": 12,
           "pistolAttackWon": false,
           "pistolDefenseWon": false,
@@ -3490,10 +3490,10 @@
             },
             {
               "id": 5,
-              "iglCall": "",
+              "iglCall": "TIRO BAÑOS",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
