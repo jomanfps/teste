@@ -3602,10 +3602,10 @@
             },
             {
               "id": 19,
-              "iglCall": "",
+              "iglCall": "EXEC CORTA",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
