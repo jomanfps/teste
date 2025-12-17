@@ -3429,9 +3429,9 @@
           "teamName": "ELEVATE AC",
           "map": "Bind",
           "startingSide": "Defense",
-          "attackOwn": 8,
+          "attackOwn": 9,
           "defenseOwn": 7,
-          "attackEnemy": 4,
+          "attackEnemy": 3,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3628,8 +3628,8 @@
               "id": 22,
               "iglCall": "EXPLOSION CORTA",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
