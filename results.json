@@ -3547,7 +3547,7 @@
             {
               "id": 12,
               "iglCall": "DOMINIO BAÑOS",
-              "note": "",
+              "note": "Muertes separadas?",
               "isWin": true,
               "fk": true,
               "fd": false
