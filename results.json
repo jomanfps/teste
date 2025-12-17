@@ -3199,7 +3199,7 @@
             },
             {
               "id": 2,
-              "iglCall": "ANTI-ECO",
+              "iglCall": "ANTIECO",
               "isWin": false,
               "fk": false,
               "fd": true
