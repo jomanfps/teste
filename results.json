@@ -3430,9 +3430,9 @@
           "map": "Bind",
           "startingSide": "Defense",
           "attackOwn": 0,
-          "defenseOwn": 1,
+          "defenseOwn": 2,
           "attackEnemy": 12,
-          "defenseEnemy": 11,
+          "defenseEnemy": 10,
           "pistolAttackWon": false,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": false,
@@ -3516,8 +3516,8 @@
               "id": 8,
               "iglCall": "",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
