@@ -3618,11 +3618,11 @@
             },
             {
               "id": 21,
-              "iglCall": "",
+              "iglCall": "ECO BAÑOS",
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 22,
