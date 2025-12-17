@@ -3627,7 +3627,7 @@
             {
               "id": 22,
               "iglCall": "EXPLOSION CORTA",
-              "note": "",
+              "note": "MTA amaso con cancelar backsite",
               "isWin": true,
               "fk": true,
               "fd": false
