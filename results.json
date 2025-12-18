@@ -3517,7 +3517,7 @@
             {
               "id": 8,
               "iglCall": "FAKE DEFAULT RAMPA",
-              "note": "posplant",
+              "note": "Posplant",
               "isWin": false,
               "fk": true,
               "fd": false
