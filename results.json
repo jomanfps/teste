@@ -3628,10 +3628,10 @@
             },
             {
               "id": 22,
-              "iglCall": "",
+              "iglCall": "PUSH A",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
