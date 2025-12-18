@@ -3620,7 +3620,7 @@
             },
             {
               "id": 21,
-              "iglCall": "SPLIT B",
+              "iglCall": "ANTIECO SPLIT B",
               "note": "",
               "isWin": false,
               "fk": true,
