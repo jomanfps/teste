@@ -3431,9 +3431,9 @@
           "map": "Split",
           "startingSide": "Attack",
           "includeInAnalytics": true,
-          "attackOwn": 5,
+          "attackOwn": 6,
           "defenseOwn": 0,
-          "attackEnemy": 7,
+          "attackEnemy": 6,
           "defenseEnemy": 12,
           "pistolAttackWon": false,
           "pistolDefenseWon": false,
@@ -3534,8 +3534,8 @@
               "id": 10,
               "iglCall": "ECO DEFAULT MEDIO",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
