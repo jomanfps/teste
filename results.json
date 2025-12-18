@@ -3428,7 +3428,7 @@
           "region": "BR",
           "tier": "Tier 2",
           "teamName": "",
-          "map": "Ascent",
+          "map": "Split",
           "startingSide": "Attack",
           "includeInAnalytics": true,
           "attackOwn": 0,
@@ -3455,7 +3455,7 @@
             "",
             ""
           ],
-          "vodLink": "",
+          "vodLink": "enc_1b1706191e08473344512d40406b0a0a1601070748450616405303350f1b1f0808463430310d0c104e3917310f3b401e2d031c4c02440106575a295e1c131306",
           "reviewLink": "",
           "rounds": [
             {
