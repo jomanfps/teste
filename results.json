@@ -3620,7 +3620,7 @@
             },
             {
               "id": 21,
-              "iglCall": "",
+              "iglCall": "SPLIT B",
               "note": "",
               "isWin": false,
               "fk": false,
