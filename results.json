@@ -3429,7 +3429,7 @@
           "tier": "Academy",
           "teamName": "ELEVATE AC",
           "map": "Split",
-          "startingSide": "Attack",
+          "startingSide": "Defense",
           "includeInAnalytics": true,
           "attackOwn": 0,
           "defenseOwn": 0,
