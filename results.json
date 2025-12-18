@@ -3615,7 +3615,7 @@
               "iglCall": "ULTI VIPER MEDIO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
