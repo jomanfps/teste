@@ -3501,7 +3501,7 @@
             {
               "id": 6,
               "iglCall": "DEFAULT INFO",
-              "note": "",
+              "note": "TKZIN Muere para la pipa cuando se calleo la info",
               "isWin": false,
               "fk": false,
               "fd": true
