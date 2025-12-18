@@ -3469,10 +3469,10 @@
             {
               "id": 2,
               "iglCall": "ECO",
-              "note": "",
+              "note": "Abriendo 1x1 todo el tiempo",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 3,
