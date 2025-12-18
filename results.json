@@ -3500,7 +3500,7 @@
             },
             {
               "id": 6,
-              "iglCall": "",
+              "iglCall": "EXEC A",
               "note": "",
               "isWin": false,
               "fk": false,
