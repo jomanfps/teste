@@ -3461,7 +3461,7 @@
             {
               "id": 1,
               "iglCall": "PISTOL NAVI",
-              "note": "",
+              "note": "Revisar cruzar cielo si nos levantan pared",
               "isWin": false,
               "fk": false,
               "fd": true
