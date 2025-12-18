@@ -3644,10 +3644,10 @@
             },
             {
               "id": 24,
-              "iglCall": "",
+              "iglCall": "TIRO MEDIO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             }
           ],
