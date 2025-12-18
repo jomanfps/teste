@@ -3580,7 +3580,7 @@
             },
             {
               "id": 16,
-              "iglCall": "",
+              "iglCall": "PUSH A",
               "note": "",
               "isWin": false,
               "fk": false,
