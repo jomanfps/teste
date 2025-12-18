@@ -3597,7 +3597,7 @@
             {
               "id": 18,
               "iglCall": "TIRO B PASIVO",
-              "note": "",
+              "note": "PHC ",
               "isWin": false,
               "fk": false,
               "fd": true
