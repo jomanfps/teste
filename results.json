@@ -3501,7 +3501,7 @@
             {
               "id": 6,
               "iglCall": "DEFAULT INFO",
-              "note": "TKZIN Muere para la pipa cuando se calleo la info",
+              "note": "TKZIN Muere para la pipa cuando se calleo la info, no coordinamos saltar juntos en cuerda",
               "isWin": false,
               "fk": false,
               "fd": true
