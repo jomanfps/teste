@@ -3509,7 +3509,7 @@
             {
               "id": 7,
               "iglCall": "TIRO CUERDAS",
-              "note": "",
+              "note": "No reaccionamos a la info",
               "isWin": false,
               "fk": true,
               "fd": false
