@@ -3607,7 +3607,7 @@
               "iglCall": "TIRO MEDIO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
