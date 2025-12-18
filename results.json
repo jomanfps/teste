@@ -3442,16 +3442,16 @@
           "bonusAttackWon": false,
           "bonusDefenseWon": false,
           "ourComp": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Raze",
+            "Fade",
+            "Yoru",
+            "Astra",
+            "Viper"
           ],
           "enemyComp": [
-            "",
-            "",
-            "",
+            "Waylay",
+            "Fade",
+            "Breach",
             "",
             ""
           ],
