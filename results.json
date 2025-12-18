@@ -3468,7 +3468,7 @@
             },
             {
               "id": 2,
-              "iglCall": "ECO DEFAULT RAMPA",
+              "iglCall": "ECO DEFAULT A",
               "note": "",
               "isWin": false,
               "fk": false,
@@ -3476,7 +3476,7 @@
             },
             {
               "id": 3,
-              "iglCall": "",
+              "iglCall": "DEFAULT A",
               "note": "",
               "isWin": false,
               "fk": false,
