@@ -3468,7 +3468,7 @@
             },
             {
               "id": 2,
-              "iglCall": "ECO DEFAULT A",
+              "iglCall": "ECO DEFAULT RAMPA",
               "note": "",
               "isWin": false,
               "fk": false,
@@ -3476,7 +3476,7 @@
             },
             {
               "id": 3,
-              "iglCall": "DEFAULT A",
+              "iglCall": "DEFAULT RAMPA",
               "note": "",
               "isWin": true,
               "fk": true,
@@ -3484,7 +3484,7 @@
             },
             {
               "id": 4,
-              "iglCall": "DEFAULT A SPLIT A",
+              "iglCall": "DEFAULT RAMPA SPLIT ",
               "note": "",
               "isWin": true,
               "fk": false,
