@@ -3508,10 +3508,10 @@
             },
             {
               "id": 7,
-              "iglCall": "",
+              "iglCall": "TIRO CUERDAS",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
