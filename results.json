@@ -3432,9 +3432,9 @@
           "startingSide": "Attack",
           "includeInAnalytics": true,
           "attackOwn": 6,
-          "defenseOwn": 3,
+          "defenseOwn": 4,
           "attackEnemy": 6,
-          "defenseEnemy": 9,
+          "defenseEnemy": 8,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -3622,8 +3622,8 @@
               "id": 21,
               "iglCall": "AVANZO MEDIO",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
