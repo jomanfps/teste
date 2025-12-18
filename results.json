@@ -3629,7 +3629,7 @@
             {
               "id": 22,
               "iglCall": "PUSH A",
-              "note": "",
+              "note": "Malos trades",
               "isWin": false,
               "fk": true,
               "fd": false
