@@ -3501,10 +3501,10 @@
             {
               "id": 6,
               "iglCall": "ANTIECO TIRO A",
-              "note": "",
+              "note": "Nagz toma susto para bucky en correo",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 7,
