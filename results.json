@@ -3511,7 +3511,7 @@
               "iglCall": "ULTI YORU B",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
