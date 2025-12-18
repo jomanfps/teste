@@ -3508,11 +3508,11 @@
             },
             {
               "id": 7,
-              "iglCall": "",
+              "iglCall": "VISION STRIKERS",
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 8,
