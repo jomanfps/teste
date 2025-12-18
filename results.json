@@ -3644,7 +3644,7 @@
             },
             {
               "id": 24,
-              "iglCall": "",
+              "iglCall": "DEFAULT ",
               "note": "",
               "isWin": true,
               "fk": true,
