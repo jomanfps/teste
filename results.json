@@ -3434,7 +3434,7 @@
           "defenseOwn": 3,
           "attackEnemy": 11,
           "defenseEnemy": 9,
-          "pistolAttackWon": false,
+          "pistolAttackWon": true,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
