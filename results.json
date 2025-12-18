@@ -3612,7 +3612,7 @@
             },
             {
               "id": 20,
-              "iglCall": "DEFAULT A",
+              "iglCall": "ECO DEFAULT A",
               "note": "",
               "isWin": false,
               "fk": false,
