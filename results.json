@@ -3605,7 +3605,7 @@
             {
               "id": 19,
               "iglCall": "FAKE DEFAULT MID",
-              "note": "",
+              "note": "Marcamos y salio bien, ",
               "isWin": false,
               "fk": true,
               "fd": false
