@@ -3580,10 +3580,10 @@
             },
             {
               "id": 16,
-              "iglCall": "",
+              "iglCall": "TIRO A AGRESIVO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
