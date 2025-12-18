@@ -3519,7 +3519,7 @@
               "iglCall": "ECO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
