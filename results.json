@@ -3493,10 +3493,10 @@
             {
               "id": 5,
               "iglCall": "ANTIECO B",
-              "note": "",
+              "note": "PHC juega ni plantamos la c4",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 6,
