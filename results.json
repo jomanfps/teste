@@ -3476,11 +3476,11 @@
             },
             {
               "id": 3,
-              "iglCall": "",
+              "iglCall": "BONUS FECHAR B",
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 4,
