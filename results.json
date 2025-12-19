@@ -3487,7 +3487,7 @@
               "iglCall": "TIRO A AGRESIVO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
