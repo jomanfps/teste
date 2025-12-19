@@ -3524,11 +3524,11 @@
             },
             {
               "id": 9,
-              "iglCall": "",
-              "note": "",
+              "iglCall": "TIRO JARDIN",
+              "note": "Muere nagz pero ver tiro igual",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 10,
