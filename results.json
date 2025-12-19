@@ -3559,7 +3559,7 @@
               "iglCall": "PISTOL NAVI",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
