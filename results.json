@@ -3432,11 +3432,11 @@
           "startingSide": "Defense",
           "includeInAnalytics": true,
           "attackOwn": 0,
-          "defenseOwn": 0,
-          "attackEnemy": 0,
-          "defenseEnemy": 0,
+          "defenseOwn": 1,
+          "attackEnemy": 12,
+          "defenseEnemy": 11,
           "pistolAttackWon": false,
-          "pistolDefenseWon": false,
+          "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
           "antiEcoDefenseWon": false,
           "bonusAttackWon": false,
@@ -3460,10 +3460,10 @@
           "rounds": [
             {
               "id": 1,
-              "iglCall": "",
+              "iglCall": "PISTOL STACK B",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
