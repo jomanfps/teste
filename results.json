@@ -3533,7 +3533,7 @@
             {
               "id": 10,
               "iglCall": "TIRO CORTA",
-              "note": "Mal retake",
+              "note": "Mal retake, tiro debería ser jardín todo el tiempo",
               "isWin": false,
               "fk": true,
               "fd": false
