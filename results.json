@@ -3612,10 +3612,10 @@
             },
             {
               "id": 20,
-              "iglCall": "",
+              "iglCall": "DEFAULT MEDIO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
