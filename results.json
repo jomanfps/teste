@@ -3517,10 +3517,10 @@
             {
               "id": 8,
               "iglCall": "ULTI VIPER MEDIO",
-              "note": "",
+              "note": "Mta murio en el pick de hooka, ",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 9,
