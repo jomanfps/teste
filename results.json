@@ -3432,9 +3432,9 @@
           "startingSide": "Defense",
           "includeInAnalytics": true,
           "attackOwn": 0,
-          "defenseOwn": 6,
+          "defenseOwn": 7,
           "attackEnemy": 12,
-          "defenseEnemy": 6,
+          "defenseEnemy": 5,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -3516,10 +3516,10 @@
             },
             {
               "id": 8,
-              "iglCall": "",
+              "iglCall": "TIRO MEDIO",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
