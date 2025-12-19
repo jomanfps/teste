@@ -3431,9 +3431,9 @@
           "map": "Split",
           "startingSide": "Defense",
           "includeInAnalytics": true,
-          "attackOwn": 5,
+          "attackOwn": 6,
           "defenseOwn": 8,
-          "attackEnemy": 7,
+          "attackEnemy": 6,
           "defenseEnemy": 4,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -3638,9 +3638,9 @@
               "id": 23,
               "iglCall": "FAKE DEFAULT RAMPA",
               "note": "Nos redominaron rampa y no activamos, demoramos mucho en reaccionar debiamos execar B antes.",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 24,
