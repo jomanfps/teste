@@ -3607,8 +3607,8 @@
               "iglCall": "VISION STRIKERS",
               "note": "Salio bien de escopeta, estabamos desventaja de armas nomas",
               "isWin": false,
-              "fk": false,
-              "fd": true
+              "fk": true,
+              "fd": false
             },
             {
               "id": 20,
