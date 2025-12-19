@@ -3477,10 +3477,10 @@
             {
               "id": 3,
               "iglCall": "TIRO BAÑOS",
-              "note": "",
+              "note": "TKZIN muere sin trade",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 4,
