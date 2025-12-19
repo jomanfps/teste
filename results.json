@@ -3501,10 +3501,10 @@
             {
               "id": 6,
               "iglCall": "ULTI RAZE A",
-              "note": "",
+              "note": "TKZIN podemos hacer el PUSH A para complementar la ulti y saber que no tenemos gaps",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 7,
