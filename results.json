@@ -3540,10 +3540,10 @@
             },
             {
               "id": 11,
-              "iglCall": "",
-              "note": "",
+              "iglCall": "ECO",
+              "note": "Revisar, demoramos mucho en decidir si tpearnos",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
