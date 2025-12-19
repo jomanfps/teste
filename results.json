@@ -3500,10 +3500,10 @@
             },
             {
               "id": 6,
-              "iglCall": "",
+              "iglCall": "TIRO JARDIN PORTAL",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
