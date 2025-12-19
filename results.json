@@ -3564,10 +3564,10 @@
             },
             {
               "id": 14,
-              "iglCall": "",
+              "iglCall": "ANTIECO",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
