@@ -3855,7 +3855,7 @@
             },
             {
               "id": 17,
-              "iglCall": "DEFAULT JARDIN AGRO",
+              "iglCall": "DEFAULT JARDIN FUERTE",
               "note": "",
               "isWin": true,
               "fk": true,
@@ -3871,7 +3871,7 @@
             },
             {
               "id": 19,
-              "iglCall": "DEFAULT BAÑOS AGRO",
+              "iglCall": "DEFAULT BAÑOS FUERTE",
               "note": "",
               "isWin": true,
               "fk": false,
@@ -3879,7 +3879,7 @@
             },
             {
               "id": 20,
-              "iglCall": "DEFAULT JARDIN AGRO",
+              "iglCall": "DEFAULT JARDIN FUERTE",
               "note": "",
               "isWin": true,
               "fk": false,
