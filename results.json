@@ -3431,9 +3431,9 @@
           "map": "Bind",
           "startingSide": "Defense",
           "includeInAnalytics": true,
-          "attackOwn": 3,
+          "attackOwn": 4,
           "defenseOwn": 7,
-          "attackEnemy": 9,
+          "attackEnemy": 8,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3597,8 +3597,8 @@
             {
               "id": 18,
               "iglCall": "EXEC BACKSITE",
-              "note": "",
-              "isWin": false,
+              "note": "ULTI WAYLAY",
+              "isWin": true,
               "fk": false,
               "fd": true
             },
