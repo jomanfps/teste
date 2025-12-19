@@ -3620,8 +3620,8 @@
             },
             {
               "id": 21,
-              "iglCall": "",
-              "note": "",
+              "iglCall": "EXEC BACKSITE",
+              "note": "ULTI WAYLAY",
               "isWin": false,
               "fk": false,
               "fd": false
