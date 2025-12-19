@@ -3493,9 +3493,9 @@
             {
               "id": 5,
               "iglCall": "TIRO JARDIN",
-              "note": "",
+              "note": "BENG troll con el pick encima de site",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
