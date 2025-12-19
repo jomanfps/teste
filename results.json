@@ -3533,7 +3533,7 @@
             {
               "id": 10,
               "iglCall": "TIRO CORTA",
-              "note": "",
+              "note": "Mal retake",
               "isWin": false,
               "fk": true,
               "fd": false
