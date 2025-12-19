@@ -3620,11 +3620,11 @@
             },
             {
               "id": 21,
-              "iglCall": "",
-              "note": "",
+              "iglCall": "FAKE DEFAULT MEDIO",
+              "note": "Dosificamos mal el veneno en la bola de medio, y cuando quizimos contactear A no había pared",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 22,
