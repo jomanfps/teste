@@ -3450,8 +3450,8 @@
           ],
           "enemyComp": [
             "Yoru",
-            "Cypher",
-            "Fade",
+            "Neon",
+            "Sova",
             "Omen",
             "Cypher"
           ],
@@ -3479,7 +3479,7 @@
               "iglCall": "BATIDA A YORU",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
