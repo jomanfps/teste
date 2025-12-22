@@ -3667,11 +3667,11 @@
               "fk": 0
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 237,
+              "kills": 23,
+              "deaths": 8,
+              "assists": 10,
+              "fk": 4
             },
             {
               "acs": 0,
@@ -3681,11 +3681,11 @@
               "fk": 0
             },
             {
-              "acs": 0,
-              "kills": 0,
-              "deaths": 0,
-              "assists": 0,
-              "fk": 0
+              "acs": 300,
+              "kills": 29,
+              "deaths": 13,
+              "assists": 9,
+              "fk": 1
             }
           ]
         },
