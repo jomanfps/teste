@@ -3533,10 +3533,10 @@
             {
               "id": 10,
               "iglCall": "TIRO A",
-              "note": "",
+              "note": "Peleamos mal el A",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 11,
