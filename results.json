@@ -3509,7 +3509,7 @@
             {
               "id": 7,
               "iglCall": "ULTI VIPER A",
-              "note": "",
+              "note": "BENG comienza en link de B, deja su setup en el A antes así está en B por si es directa",
               "isWin": false,
               "fk": false,
               "fd": true
