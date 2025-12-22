@@ -3576,7 +3576,7 @@
               "note": "PHC tenía que empezar en A con tk ",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 16,
