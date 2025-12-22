@@ -3629,7 +3629,7 @@
             {
               "id": 22,
               "iglCall": "FAKE DEFAULT A",
-              "note": "Revisar el posplant en C, estambamos 5v4",
+              "note": "Revisar el posplant en C, estabamos 5v4",
               "isWin": false,
               "fk": true,
               "fd": false
