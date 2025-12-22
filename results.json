@@ -3613,7 +3613,7 @@
             {
               "id": 20,
               "iglCall": "REDOMINIO A",
-              "note": "PHC lo spotean en la caja y lo matan, NAGZ podría revisar",
+              "note": "PHC lo spotean en la caja y lo matan, NAGZ podría revisar su pathing en A",
               "isWin": false,
               "fk": false,
               "fd": true
