@@ -3429,7 +3429,7 @@
           "tier": "Tier 2",
           "teamName": "",
           "map": "Haven",
-          "startingSide": "Attack",
+          "startingSide": "Defense",
           "includeInAnalytics": true,
           "attackOwn": 0,
           "defenseOwn": 0,
@@ -3460,7 +3460,7 @@
           "rounds": [
             {
               "id": 1,
-              "iglCall": "",
+              "iglCall": "PISTOL CORTA",
               "note": "",
               "isWin": false,
               "fk": false,
