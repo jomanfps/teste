@@ -3423,6 +3423,273 @@
       "createdAt": "2025-12-04T20:57:22.191Z",
       "scrims": [
         {
+          "id": "4073360a-031c-4aee-9476-fcb9b6a8f838",
+          "date": "2025-12-22",
+          "region": "LATAM",
+          "tier": "Tier 3",
+          "teamName": "2026",
+          "map": "Haven",
+          "startingSide": "Defense",
+          "includeInAnalytics": true,
+          "attackOwn": 7,
+          "defenseOwn": 9,
+          "attackEnemy": 5,
+          "defenseEnemy": 3,
+          "pistolAttackWon": true,
+          "pistolDefenseWon": true,
+          "antiEcoAttackWon": true,
+          "antiEcoDefenseWon": true,
+          "bonusAttackWon": true,
+          "bonusDefenseWon": true,
+          "ourComp": [
+            "Yoru",
+            "Killjoy",
+            "Fade",
+            "Omen",
+            "Viper"
+          ],
+          "enemyComp": [
+            "Yoru",
+            "Neon",
+            "Sova",
+            "Omen",
+            "Cypher"
+          ],
+          "vodLink": "enc_1b1706191e08473344512d40406b0a0a1601070748450616405303350f1b1f080846343821071434142924370123401e2d031c4c02440106575a295e1c131306",
+          "reviewLink": "",
+          "rounds": [
+            {
+              "id": 1,
+              "iglCall": "PISTOL CORTA",
+              "note": "En ventaja teníamos que juntarnos",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 2,
+              "iglCall": "ANTIECO CORTA",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 3,
+              "iglCall": "BATIDA A YORU",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 4,
+              "iglCall": "ANTIECO CORTA",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 5,
+              "iglCall": "TIRO C",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 6,
+              "iglCall": "TIRO C",
+              "note": "BENG murio en dobles solo nomas",
+              "isWin": true,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 7,
+              "iglCall": "ULTI VIPER A",
+              "note": "BENG comienza en link de B, deja su setup en el A antes así está en B por si es directa",
+              "isWin": false,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 8,
+              "iglCall": "TIRO B",
+              "note": "",
+              "isWin": true,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 9,
+              "iglCall": "TIRO A",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 10,
+              "iglCall": "TIRO A",
+              "note": "Peleamos mal el A",
+              "isWin": false,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 11,
+              "iglCall": "TIRO C",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 12,
+              "iglCall": "BATIDA A YORU",
+              "note": "",
+              "isWin": false,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 13,
+              "iglCall": "PISTOL A",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 14,
+              "iglCall": "ANTIECO A",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 15,
+              "iglCall": "BONUS DOBLE PRESION",
+              "note": "PHC tenía que empezar en A con tk ",
+              "isWin": true,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 16,
+              "iglCall": "ANTIECO YORU A",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 17,
+              "iglCall": "ULTI YORU C",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 18,
+              "iglCall": "FAKE DEFAULT A",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 19,
+              "iglCall": "REDOMINIO A",
+              "note": "",
+              "isWin": true,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 20,
+              "iglCall": "REDOMINIO A",
+              "note": "PHC lo spotean en la caja y lo matan, NAGZ podría revisar su pathing en A",
+              "isWin": false,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 21,
+              "iglCall": "FAKE DEFAULT A",
+              "note": "",
+              "isWin": false,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 22,
+              "iglCall": "FAKE DEFAULT A",
+              "note": "Revisar el posplant en C, estabamos 5v4",
+              "isWin": false,
+              "fk": true,
+              "fd": false
+            },
+            {
+              "id": 23,
+              "iglCall": "DEFAULT A",
+              "note": "",
+              "isWin": true,
+              "fk": false,
+              "fd": true
+            },
+            {
+              "id": 24,
+              "iglCall": "DEFAULT A",
+              "note": "Revisar si cambiamos el humo en larga de A, TKZIN puede morir de piedra como le pasó",
+              "isWin": false,
+              "fk": false,
+              "fd": true
+            }
+          ],
+          "playerStats": [
+            {
+              "acs": 257,
+              "kills": 22,
+              "deaths": 14,
+              "assists": 4,
+              "fk": 4
+            },
+            {
+              "acs": 204,
+              "kills": 18,
+              "deaths": 14,
+              "assists": 5,
+              "fk": 2
+            },
+            {
+              "acs": 237,
+              "kills": 23,
+              "deaths": 8,
+              "assists": 10,
+              "fk": 4
+            },
+            {
+              "acs": 231,
+              "kills": 19,
+              "deaths": 12,
+              "assists": 18,
+              "fk": 4
+            },
+            {
+              "acs": 300,
+              "kills": 29,
+              "deaths": 13,
+              "assists": 9,
+              "fk": 1
+            }
+          ]
+        },
+        {
           "id": "4bea8e6f-3636-40b2-b2af-359db2637fe1",
           "date": "2025-12-19",
           "region": "BR",
