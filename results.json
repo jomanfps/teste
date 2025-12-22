@@ -3645,7 +3645,7 @@
             {
               "id": 24,
               "iglCall": "DEFAULT A",
-              "note": "",
+              "note": "Revisar si cambiamos el humo en larga de A, TKZIN puede morir de piedra como le pasó",
               "isWin": false,
               "fk": false,
               "fd": true
