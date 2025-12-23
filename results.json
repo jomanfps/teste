@@ -3431,9 +3431,9 @@
           "map": "Corrode",
           "startingSide": "Defense",
           "includeInAnalytics": true,
-          "attackOwn": 5,
+          "attackOwn": 6,
           "defenseOwn": 6,
-          "attackEnemy": 7,
+          "attackEnemy": 6,
           "defenseEnemy": 6,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3604,9 +3604,9 @@
             },
             {
               "id": 19,
-              "iglCall": "",
+              "iglCall": "DEFA BARANDA AGRO",
               "note": "",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
