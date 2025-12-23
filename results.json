@@ -3432,9 +3432,9 @@
           "startingSide": "Defense",
           "includeInAnalytics": true,
           "attackOwn": 0,
-          "defenseOwn": 3,
+          "defenseOwn": 4,
           "attackEnemy": 12,
-          "defenseEnemy": 9,
+          "defenseEnemy": 8,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": false,
@@ -3486,7 +3486,7 @@
               "id": 4,
               "iglCall": "TIRO AGRESIVO A",
               "note": "",
-              "isWin": false,
+              "isWin": true,
               "fk": true,
               "fd": false
             },
@@ -3496,7 +3496,7 @@
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 6,
