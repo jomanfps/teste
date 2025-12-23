@@ -3429,7 +3429,7 @@
           "tier": "Tier 2",
           "teamName": "TEAM TRIBE",
           "map": "Split",
-          "startingSide": "Attack",
+          "startingSide": "Defense",
           "includeInAnalytics": true,
           "attackOwn": 0,
           "defenseOwn": 0,
