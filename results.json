@@ -3628,11 +3628,11 @@
             },
             {
               "id": 22,
-              "iglCall": "",
+              "iglCall": "DEFAULT MEDIO",
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 23,
