@@ -3524,10 +3524,10 @@
             },
             {
               "id": 9,
-              "iglCall": "",
+              "iglCall": "TIRO JARDIN",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
