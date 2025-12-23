@@ -3495,7 +3495,7 @@
               "iglCall": "ECO",
               "note": "Los 3 flasheados para el kayo nadie fico antibang",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
