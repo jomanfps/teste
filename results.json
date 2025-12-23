@@ -3525,18 +3525,18 @@
             {
               "id": 9,
               "iglCall": "TIRO B PASIVO",
-              "note": "Alguien tiene que ",
+              "note": "Alguien tiene que empezar con nagz y romper utilidad",
               "isWin": false,
               "fk": false,
               "fd": true
             },
             {
               "id": 10,
-              "iglCall": "",
+              "iglCall": "TIRO B PASIVO",
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 11,
