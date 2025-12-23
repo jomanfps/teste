@@ -3636,7 +3636,7 @@
             },
             {
               "id": 23,
-              "iglCall": "",
+              "iglCall": "DEFAULT 1-3-1",
               "note": "",
               "isWin": false,
               "fk": false,
