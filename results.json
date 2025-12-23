@@ -3432,9 +3432,9 @@
           "startingSide": "Defense",
           "includeInAnalytics": true,
           "attackOwn": 0,
-          "defenseOwn": 0,
-          "attackEnemy": 0,
-          "defenseEnemy": 0,
+          "defenseOwn": 1,
+          "attackEnemy": 12,
+          "defenseEnemy": 11,
           "pistolAttackWon": false,
           "pistolDefenseWon": false,
           "antiEcoAttackWon": false,
@@ -3477,8 +3477,8 @@
             {
               "id": 3,
               "iglCall": "ANTIECO",
-              "note": "",
-              "isWin": false,
+              "note": "Ver como pelear medio mejor, mta quedo muy solo",
+              "isWin": true,
               "fk": true,
               "fd": false
             },
