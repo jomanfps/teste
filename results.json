@@ -3543,7 +3543,7 @@
               "iglCall": "TIRO A",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
