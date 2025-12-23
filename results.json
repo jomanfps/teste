@@ -3511,7 +3511,7 @@
               "iglCall": "TIRO JARDIN",
               "note": "Rotando muy lento / mal",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
