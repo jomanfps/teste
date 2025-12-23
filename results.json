@@ -3476,7 +3476,7 @@
             },
             {
               "id": 3,
-              "iglCall": "ANTIECO",
+              "iglCall": "ANTIECO 2-1-2",
               "note": "Ver como pelear medio mejor, mta quedo muy solo",
               "isWin": true,
               "fk": true,
@@ -3488,7 +3488,7 @@
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 5,
