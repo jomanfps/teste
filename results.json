@@ -3525,7 +3525,7 @@
             {
               "id": 9,
               "iglCall": "TIRO B PASIVO",
-              "note": "",
+              "note": "Alguien tiene que ",
               "isWin": false,
               "fk": false,
               "fd": true
