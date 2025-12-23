@@ -3516,10 +3516,10 @@
             },
             {
               "id": 8,
-              "iglCall": "PISTOL 4B",
+              "iglCall": "REACTIVA A",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
