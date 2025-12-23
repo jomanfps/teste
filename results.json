@@ -3442,11 +3442,11 @@
           "bonusAttackWon": false,
           "bonusDefenseWon": false,
           "ourComp": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Waylay",
+            "Viper",
+            "Fade",
+            "Omen",
+            "Chamber"
           ],
           "enemyComp": [
             "",
