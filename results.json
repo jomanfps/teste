@@ -3431,9 +3431,9 @@
           "map": "Split",
           "startingSide": "Defense",
           "includeInAnalytics": true,
-          "attackOwn": 7,
+          "attackOwn": 8,
           "defenseOwn": 7,
-          "attackEnemy": 5,
+          "attackEnemy": 4,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -3612,10 +3612,10 @@
             },
             {
               "id": 20,
-              "iglCall": "",
+              "iglCall": "FAKE DEFAULT RAMPA",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
