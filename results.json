@@ -3431,15 +3431,15 @@
           "map": "Split",
           "startingSide": "Defense",
           "includeInAnalytics": true,
-          "attackOwn": 2,
+          "attackOwn": 3,
           "defenseOwn": 7,
-          "attackEnemy": 10,
+          "attackEnemy": 9,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
           "antiEcoAttackWon": true,
           "antiEcoDefenseWon": true,
-          "bonusAttackWon": false,
+          "bonusAttackWon": true,
           "bonusDefenseWon": true,
           "ourComp": [
             "Raze",
@@ -3572,10 +3572,10 @@
             },
             {
               "id": 15,
-              "iglCall": "DIRECTA B",
+              "iglCall": "BONUS B",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
