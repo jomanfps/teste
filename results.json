@@ -3647,7 +3647,7 @@
               "iglCall": "DEFAULT BAÑOS",
               "note": "",
               "isWin": true,
-              "fk": false,
+              "fk": true,
               "fd": false
             }
           ],
