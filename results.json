@@ -3621,9 +3621,9 @@
             {
               "id": 21,
               "iglCall": "DEFAULT MEDIO",
-              "note": "",
+              "note": "Demoramos mucho en tomar una decisión y pushearon a nagz, comimos mal a la astra en backsite",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
