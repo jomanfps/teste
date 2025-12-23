@@ -3431,9 +3431,9 @@
           "map": "Corrode",
           "startingSide": "Defense",
           "includeInAnalytics": true,
-          "attackOwn": 7,
+          "attackOwn": 8,
           "defenseOwn": 6,
-          "attackEnemy": 5,
+          "attackEnemy": 4,
           "defenseEnemy": 6,
           "pistolAttackWon": true,
           "pistolDefenseWon": false,
@@ -3646,8 +3646,8 @@
               "id": 24,
               "iglCall": "FAKE EXEC B",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             }
           ],
