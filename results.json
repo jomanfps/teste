@@ -3589,10 +3589,10 @@
             {
               "id": 17,
               "iglCall": "DIRECTA B ULTI FADE",
-              "note": "",
+              "note": "Revisar ruta de tkzin, lo mataron stuneado igual",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 18,
