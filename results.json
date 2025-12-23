@@ -3431,9 +3431,9 @@
           "map": "Split",
           "startingSide": "Defense",
           "includeInAnalytics": true,
-          "attackOwn": 3,
+          "attackOwn": 4,
           "defenseOwn": 7,
-          "attackEnemy": 9,
+          "attackEnemy": 8,
           "defenseEnemy": 5,
           "pistolAttackWon": true,
           "pistolDefenseWon": true,
@@ -3582,8 +3582,8 @@
               "id": 16,
               "iglCall": "ANTIECO B",
               "note": "",
-              "isWin": false,
-              "fk": false,
+              "isWin": true,
+              "fk": true,
               "fd": false
             },
             {
