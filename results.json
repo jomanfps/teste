@@ -3921,8 +3921,8 @@
           "playerStats": [
             {
               "acs": null,
-              "kills": 0,
-              "deaths": 0,
+              "kills": 24,
+              "deaths": 18,
               "assists": 0,
               "fk": null
             },
