@@ -3431,9 +3431,9 @@
           "map": "Bind",
           "startingSide": "Defense",
           "includeInAnalytics": true,
-          "attackOwn": 5,
+          "attackOwn": 6,
           "defenseOwn": 8,
-          "attackEnemy": 7,
+          "attackEnemy": 6,
           "defenseEnemy": 4,
           "pistolAttackWon": false,
           "pistolDefenseWon": true,
@@ -3644,9 +3644,9 @@
             },
             {
               "id": 24,
-              "iglCall": "",
+              "iglCall": "DEFAULT BAÑOS",
               "note": "",
-              "isWin": false,
+              "isWin": true,
               "fk": false,
               "fd": false
             }
