@@ -3559,7 +3559,7 @@
               "iglCall": "PISTOL LEV",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
