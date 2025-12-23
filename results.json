@@ -3621,10 +3621,10 @@
             {
               "id": 21,
               "iglCall": "DEFAULT PUNTAS",
-              "note": "",
+              "note": "Revisar, jugamos al mismo tiempo en las puntas y lo hicimos como el pico",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 22,
