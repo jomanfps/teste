@@ -3588,10 +3588,10 @@
             },
             {
               "id": 17,
-              "iglCall": "",
+              "iglCall": "DIRECTA A",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
