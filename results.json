@@ -3560,7 +3560,7 @@
               "note": "Nos olvidamos la pistol, MTA debería tener el tp en larga, BENG tiene que rotar rapido",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 14,
@@ -3568,14 +3568,14 @@
               "note": "",
               "isWin": false,
               "fk": false,
-              "fd": false
+              "fd": true
             },
             {
               "id": 15,
               "iglCall": "",
               "note": "",
               "isWin": false,
-              "fk": false,
+              "fk": true,
               "fd": false
             },
             {
