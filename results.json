@@ -3485,14 +3485,14 @@
             {
               "id": 4,
               "iglCall": "ANTIECO 2-1-2",
-              "note": "",
+              "note": "Nadie callea el ulti de kayo",
               "isWin": false,
               "fk": false,
               "fd": true
             },
             {
               "id": 5,
-              "iglCall": "",
+              "iglCall": "ECO",
               "note": "",
               "isWin": false,
               "fk": false,
