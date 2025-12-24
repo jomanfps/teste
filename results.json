@@ -3464,7 +3464,8 @@
               "note": "BENG disocio",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 2,
