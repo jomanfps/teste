@@ -3465,7 +3465,7 @@
               "isWin": true,
               "fk": true,
               "fd": false,
-              "isSeen": false
+              "isSeen": true
             },
             {
               "id": 2,
