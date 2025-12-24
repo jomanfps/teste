@@ -3481,7 +3481,8 @@
               "note": "Dijimos que lo hariamos de 3",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -3505,7 +3506,8 @@
               "note": "TKZIN se matou 5v4, PHC poderia tar mais atento pra ativar o smoke antes do ult do kayo",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 7,
@@ -3625,7 +3627,8 @@
               "note": "Demoramos mucho en tomar una decisión y pushearon a nagz, comimos mal a la astra en backsite",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 22,
@@ -3641,7 +3644,8 @@
               "note": "Limpiar mejor al de cielo A",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 24,
@@ -3748,7 +3752,8 @@
               "note": "BENG revisar, MTA y NAGZ podrían hacer mejor ese bait en hooka",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -3756,7 +3761,8 @@
               "note": "TKZIN tiene que sobrevivir si está solo baños",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 5,
@@ -3772,7 +3778,8 @@
               "note": "BENG podría rotar mas rapido",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 7,
@@ -3780,7 +3787,8 @@
               "note": "Rotando muy lento / mal",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 8,
@@ -3788,7 +3796,8 @@
               "note": "Gastamos ultis bien",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 9,
@@ -3829,7 +3838,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": false
+              "isSeen": true
             },
             {
               "id": 14,
@@ -4016,7 +4025,8 @@
               "note": "Ver como pelear medio mejor, mta quedo muy solo",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -4024,7 +4034,8 @@
               "note": "Nadie callea el ulti de kayo",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 5,
@@ -4032,7 +4043,8 @@
               "note": "Los 3 flasheados para el kayo nadie fico antibang",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 6,
@@ -4064,7 +4076,8 @@
               "note": "Alguien tiene que empezar con nagz y romper utilidad",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 10,
@@ -4096,7 +4109,8 @@
               "note": "Coordinamos muy lento desde donde jugar el posplant",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 14,
@@ -4128,7 +4142,8 @@
               "note": "Revisar ruta de tkzin, lo mataron stuneado igual",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 18,
@@ -4160,7 +4175,8 @@
               "note": "Revisar, jugamos al mismo tiempo en las puntas y lo hicimos como el pico",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 22,
@@ -4168,7 +4184,8 @@
               "note": "PHC jugó demasiado antes, nos vamos a juntar en su punta tenemos que esperar",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 23,
