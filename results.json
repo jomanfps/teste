@@ -3828,7 +3828,8 @@
               "note": "Nos olvidamos la pistol, MTA debería tener el tp en baños, BENG tiene que rotar rapido por caverna",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 14,
