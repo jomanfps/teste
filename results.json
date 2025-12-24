@@ -6621,7 +6621,8 @@
               "note": "MTA muere en larga",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 18,
@@ -6629,7 +6630,8 @@
               "note": "PHC muere en aladin",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 19,
