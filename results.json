@@ -4452,7 +4452,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             }
           ],
           "playerStats": [
