@@ -4550,7 +4550,8 @@
               "note": "Podemos mejorar la micro de main de B, o empezar con alguien más para ser 3 y asegurarnos de ganar la briga",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -4558,7 +4559,8 @@
               "note": "Economia de ct, TKZIN troll, PHC muere tambien, no debemos dar ningún chance de perder armas de CT",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 5,
@@ -4566,7 +4568,8 @@
               "note": "Nos emocionamos en medio",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 6,
@@ -4574,7 +4577,8 @@
               "note": "TKZIN podemos hacer el PUSH A para complementar la ulti y saber que no tenemos gaps",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 7,
