@@ -6596,7 +6596,8 @@
               "note": "Nagz podia mapear los pj",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 15,
