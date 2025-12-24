@@ -3753,7 +3753,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 4,
@@ -3762,7 +3762,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 5,
@@ -3779,7 +3779,7 @@
               "isWin": true,
               "fk": true,
               "fd": false,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 7,
@@ -3788,7 +3788,7 @@
               "isWin": false,
               "fk": true,
               "fd": false,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 8,
@@ -3797,7 +3797,7 @@
               "isWin": true,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 9,
@@ -3838,7 +3838,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 14,
