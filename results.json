@@ -4451,7 +4451,8 @@
               "note": "Revisar si cambiamos el humo en larga de A, TKZIN puede morir de piedra como le pasó",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             }
           ],
           "playerStats": [
@@ -4586,7 +4587,8 @@
               "note": "Champagne",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 8,
@@ -4602,7 +4604,8 @@
               "note": "TKZIN el carrito tiene que ser antes para no tomar contacto",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 10,
@@ -4618,7 +4621,8 @@
               "note": "La raze tuvo 4v1 en cielo vs nosotros, mta no cuenta por la ulti talves",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 12,
@@ -4650,7 +4654,8 @@
               "note": "Abrimos mal al de cielo, podiamos coordinarnos mejor al mismo tiempo",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 16,
@@ -4658,7 +4663,8 @@
               "note": "Champagne",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 17,
@@ -4674,7 +4680,8 @@
               "note": "Podemos hacer el vision strikers como 2do ulti del half",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 19,
@@ -4682,7 +4689,8 @@
               "note": "Salio bien de escopeta, estabamos desventaja de armas nomas",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 20,
@@ -4698,7 +4706,8 @@
               "note": "Dosificamos mal el veneno en la bola de medio, y cuando quizimos contactear A no había pared",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 22,
@@ -4714,7 +4723,8 @@
               "note": "Nos redominaron rampa y no activamos, demoramos mucho en reaccionar debiamos execar B antes.",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 24,
@@ -4805,7 +4815,8 @@
               "note": "Mataron a beng y nagz",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 2,
@@ -4821,7 +4832,8 @@
               "note": "TKZIN pierde choque en baños pero podríamos haber hecho un totem",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -4829,7 +4841,8 @@
               "note": "Peleamos mal jardin, cayo mal la moly de viper",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 5,
@@ -4837,7 +4850,8 @@
               "note": "BENG troll con el pick encima de site, puede hacerlo más a la derecha y salir vivo",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 6,
@@ -4853,7 +4867,8 @@
               "note": "Abrimos baños sin bangui tkzin y mta, podia haber salido bien",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 8,
@@ -4861,7 +4876,8 @@
               "note": "Mta murio en el pick de hooka, aún no condicinamos el tiro de jardín",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 9,
@@ -4869,7 +4885,8 @@
               "note": "Muere nagz pero ver tiro igual",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 10,
@@ -4877,7 +4894,8 @@
               "note": "Mal retake, tiro debería ser jardín todo el tiempo",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 11,
@@ -4885,7 +4903,8 @@
               "note": "Revisar, demoramos mucho en decidir si tpearnos, super descoordinado lo de la bangui spot en fondo ",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 12,
@@ -4893,7 +4912,8 @@
               "note": "Revisar el tiro podría ser jardín mejor",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 13,
@@ -4917,7 +4937,8 @@
               "note": "MTA le falto ser más paciente, tienes que esperar a que el te cruce en la mira pq como estamos causando fondo ellos van a discartear baños ",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 16,
@@ -4925,7 +4946,8 @@
               "note": "Nagz jugó muy antes, no habiamos ni pasado",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 17,
@@ -4941,7 +4963,8 @@
               "note": "ULTI WAYLAY",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 19,
@@ -4957,7 +4980,8 @@
               "note": "Podiamos haber tpeado para ayudar a nagz tambien y matar a los 3 pusheando de costas",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 21,
@@ -4965,7 +4989,8 @@
               "note": "ULTI WAYLAY",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 22,
@@ -5072,7 +5097,8 @@
               "note": "Revisar cruzar cielo si nos levantan pared",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 2,
@@ -5080,7 +5106,8 @@
               "note": "Abriendo 1x1 todo el tiempo",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 3,
@@ -5104,7 +5131,8 @@
               "note": "PHC juega ni plantamos la c4",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 6,
@@ -5128,7 +5156,8 @@
               "note": "Postplant",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 9,
@@ -5152,7 +5181,8 @@
               "note": "Nadie estuvo atento a la ulti de viper",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 12,
@@ -5168,7 +5198,8 @@
               "note": "MUY RARA",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 14,
@@ -5192,7 +5223,8 @@
               "note": "NAGZ Y TKZIN TROLL",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 17,
@@ -5208,7 +5240,8 @@
               "note": "PHC ",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 19,
@@ -5216,7 +5249,8 @@
               "note": "5v4",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 20,
@@ -5224,7 +5258,8 @@
               "note": "Jugamos mal, mal parados en A",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 21,
@@ -5248,7 +5283,8 @@
               "note": "No tenia q morir nagzet",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 24,
@@ -5379,7 +5415,8 @@
               "note": "TKZIN Muere para la pipa cuando se calleo la info, no coordinamos saltar juntos en cuerda",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 7,
@@ -5387,7 +5424,8 @@
               "note": "VS chamber podríamos agregar un perro mid para no tomar pick cuerda",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 8,
@@ -5411,7 +5449,8 @@
               "note": "Nagz murio en punta",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 11,
@@ -5459,7 +5498,8 @@
               "note": "5V4",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 17,
@@ -5499,7 +5539,8 @@
               "note": "Cayo mal el veneno de nagz y peleamos mal el site",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 22,
@@ -5507,7 +5548,8 @@
               "note": "Malos trades",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 23,
@@ -5606,7 +5648,8 @@
               "note": "Nos sorprendio un poco talves pero ganamos igual",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 2,
@@ -5622,7 +5665,8 @@
               "note": "Por tiempo debimos hacernos fuerte en site, y si peleamos rampa hacerlo mejor, abrir juntos mejor los ángulos.",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -5630,7 +5674,8 @@
               "note": "Pinamos",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 5,
@@ -5646,7 +5691,8 @@
               "note": "Nagz toma susto para bucky en cuerdas",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 7,
@@ -5654,7 +5700,8 @@
               "note": "No reaccionamos a la info",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 8,
@@ -5678,7 +5725,8 @@
               "note": "Probamos raze x yoru",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 11,
@@ -5702,7 +5750,8 @@
               "note": "Hacer el totem más a la izq",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 14,
@@ -5726,7 +5775,8 @@
               "note": "Motita no debia tpearse",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 17,
@@ -5734,7 +5784,8 @@
               "note": "Phc muere en B",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 18,
@@ -5750,7 +5801,8 @@
               "note": "Marcamos y matamos pero comimos un stack al final",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 20,
@@ -5782,7 +5834,8 @@
               "note": "TRADES",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 24,
@@ -5790,7 +5843,8 @@
               "note": "Motita insert",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             }
           ],
           "playerStats": [
@@ -5872,7 +5926,8 @@
               "note": "BENG pusheo baños y NAGZ no tuvo trackeo",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 2,
@@ -5888,7 +5943,8 @@
               "note": "1V1 todo el tiempo",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -5904,7 +5960,8 @@
               "note": "No rotamos",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 6,
@@ -5944,7 +6001,8 @@
               "note": "ENTREGAMOS pinamos",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 11,
@@ -5952,7 +6010,8 @@
               "note": "Trades",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 12,
@@ -5968,7 +6027,8 @@
               "note": "Jugamos al mismo tiempo y antes en corta",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 14,
@@ -5984,7 +6044,8 @@
               "note": "Redominaron",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 16,
@@ -6008,7 +6069,8 @@
               "note": "Redominaron",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 19,
@@ -6016,7 +6078,8 @@
               "note": "Revisar exec",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 20,
@@ -6040,7 +6103,8 @@
               "note": "Redominaron",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 23,
@@ -6048,7 +6112,8 @@
               "note": "3v1",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 24,
@@ -6139,7 +6204,8 @@
               "note": "Abrimos mal en hooka",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 2,
@@ -6155,7 +6221,8 @@
               "note": "TKZIN trolleo",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -6179,7 +6246,8 @@
               "note": "Se cola la viper hooka",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 7,
@@ -6219,7 +6287,8 @@
               "note": "NT troleamos",
               "isWin": false,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 12,
@@ -6243,7 +6312,8 @@
               "note": "NAGZ muere corta, beng no tiene que comitear baños",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 15,
@@ -6251,7 +6321,8 @@
               "note": "Nadie marcando aladin",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 16,
@@ -6259,7 +6330,8 @@
               "note": "Revisar perro",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 17,
@@ -6291,7 +6363,8 @@
               "note": "Ya tenemos baños dominado y mta sigue buscando, se muere por eso",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 21,
@@ -6299,7 +6372,8 @@
               "note": "Faltó baitear skill",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 22,
@@ -6307,7 +6381,8 @@
               "note": "MTA amaso con cancelar backsite",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 23,
@@ -6315,7 +6390,8 @@
               "note": "NAGZ resolvio",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 24,
@@ -6413,7 +6489,8 @@
               "note": "Podiamos haber hecho lo de baños más rápido",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 3,
@@ -6421,7 +6498,8 @@
               "note": "Comimos micro, beng debe baitear más",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 4,
@@ -6429,7 +6507,8 @@
               "note": "Pedir molly a nagz si queremos tpearnos en baños",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 5,
@@ -6437,7 +6516,8 @@
               "note": "Muere nagz al mismo tiempo",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 6,
@@ -6445,7 +6525,8 @@
               "note": "Matan a tkzin primero, se escapan los trades",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 7,
@@ -6453,7 +6534,8 @@
               "note": "Revisar el tiempo que marcamos",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 8,
@@ -6469,7 +6551,8 @@
               "note": "Matan a nagz no estamos atento a la ulti",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 10,
@@ -6477,7 +6560,8 @@
               "note": "Matan a nagz en medio",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 11,
@@ -6485,7 +6569,8 @@
               "note": "Podemos revisar si tocar mas el B antes",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 12,
@@ -6493,7 +6578,8 @@
               "note": "Muertes separadas?",
               "isWin": true,
               "fk": true,
-              "fd": false
+              "fd": false,
+              "isSeen": true
             },
             {
               "id": 13,
@@ -6501,7 +6587,8 @@
               "note": "KAYO nos ve, vamos corriendo",
               "isWin": false,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 14,
