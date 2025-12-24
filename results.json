@@ -4026,7 +4026,7 @@
               "isWin": true,
               "fk": true,
               "fd": false,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 4,
@@ -4035,7 +4035,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 5,
@@ -4044,7 +4044,7 @@
               "isWin": false,
               "fk": true,
               "fd": false,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 6,
@@ -4077,7 +4077,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 10,
@@ -4110,7 +4110,7 @@
               "isWin": true,
               "fk": true,
               "fd": false,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 14,
@@ -4143,7 +4143,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 18,
@@ -4176,7 +4176,7 @@
               "isWin": false,
               "fk": false,
               "fd": true,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 22,
@@ -4185,7 +4185,7 @@
               "isWin": false,
               "fk": true,
               "fd": false,
-              "isSeen": true
+              "isSeen": false
             },
             {
               "id": 23,
