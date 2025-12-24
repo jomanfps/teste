@@ -4307,7 +4307,8 @@
               "note": "BENG murio en dobles solo nomas",
               "isWin": true,
               "fk": false,
-              "fd": true
+              "fd": true,
+              "isSeen": true
             },
             {
               "id": 7,
